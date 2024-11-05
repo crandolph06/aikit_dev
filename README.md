@@ -14,8 +14,15 @@ https://doi.org/10.21203/rs.3.rs-5038817/v1
 #### MQF Parser, should you choose to use master question files (MQFs), parses your MQF into a .tsv file.
 
 ### Basic Question Asker/Assessor
+#### QuestionAsker contains the code where a single question is asked using Mistral RAG. Thanks Mistral!!
+#### mistralQuestionAssessor contains code where pre-written questions (in our research, these came from MQFs and our own generated questions from SQUAD-G) are used as the question prompt in the QuestionAsker.
 
-### SQUAD
+### SQUAD!
+#### SQUAD-G code is contained in mistralRAGSquad. This function iterates through a DaaDy and, with our prompt, generates a question, answer, reference (QAR) triplet for each sentence of the document.
+#### SQUAD-A code is contained in mistralSQUADAssessor. This function iterates through a dictionary of QARs and assesses whether the answer to the question is found in the referenced sentence of the text. 
 
 ### Research
 #### In our paper we reference the true number of sentences in any string of characters. This was computed using the questionCounterbyCharacter code in this repo. 
+
+### Contact
+#### If you have questions or need help with this code, don't hesitate to contact me! Thank you and happy learning!
