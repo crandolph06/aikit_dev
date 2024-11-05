@@ -1,0 +1,2150 @@
+ 
+BY ORDER OF THE                                                           SHAW AFB INSTRUCTION 11 -250 
+COMMANDER, SHAW AFB  
+1 August 2021 
+ 
+Flying Operations 
+ 
+AIRFIELD OPERATIONS AND  
+BASE FLYING PROCEDURES  
+ 
+ 
+ 
+ACCESSIBILITY :  This publication is only available directly from the OPR. 
+ RELEASABILITY :  Access to this publication is restricted.  
+ 
+ 
+OPR:  20 OSS/OSA                                                                                  Certified by:  20 OSS/CC  
+(Lt Col Alex ander  D.  Winn) 
+Supersedes:  SHAWAFBI 11-250, 21 SEPTEMBER 2016                                              Pages:  74  
+ 
+ This instruction  implements Air Force Policy Directive (AFPD) 11 -2, Aircrew Operations
+ and 
+AFPD 13 -2, Air Traffic Control, Airspace, Airfield and Range Management .   This instruction 
+establishes policies and procedures for flight operations, air traffic control (ATC) and airfield operations at Shaw A ir Force Base (AFB) .  This instruction applies to all personnel and agenci es 
+involved in flying or flightline operations at S haw AFB .  Temporary duty aircraft operating from 
+Shaw AFB are considered "base assigned" and subject to the provisions of this inst ruction.  
+McEntire Joint National Guard Base (JNGB) assigned aircraft are considered base assigned for the purposes of this instruction.  Deviations are authorized in the interest of safety or in an emergency; however, full details and justification concer ning deviations from these procedures will be briefed 
+to the squadron commander or operations officer who will, in turn, brief the 20 OG/CC.  Waiver 
+authority for this instruction is the 20 OG/CC.  Submit recommended revisions to these procedures to 20 OSS /OSA on 
+AF Form 847, Recommend For Change of Publication , for review and 
+inclusion as an agenda item for the Shaw Airfield Operations Board (AOB) meeting.  This instruction further defines: 
+Air Force Manual (AFMAN) 11 -202, Volume 3, Flight Operations ; 
+AFMAN 13 -204, Volume 3, Air Traffic Contro l; AFMAN 13 -204, Volume 2, Airfield 
+Management ; AFI 13 -213, Airfield Driving ; AFI 32 -1043_ACCSUP, Managing, Operating, and 
+Maintaining Aircraft Arresting Systems ; AFI 91 -212, Bird/Wildlife Aircraft Strike Hazard (BASH) 
+Management Program ; and Federal Av iation Administration Order Joint Order (FAAO JO) 
+7110.65, Air Traffic Control (ATC) .  This instruction rescinds AFMAN  11-2F- 16, Volume 
+3_SHAWAFBSUP, F16 Operations Procedures  dated 4 February 202 and incorporates all 
+applicable data.  Ensure that all records created as a result of processes prescribed in this publication are maintained  in accordance with  (IAW) 
+AFMAN 33 -363, Management of Records , 
+and disposed of IAW Air For ce Records Information Management System (AFRIMS) Records 
+Disposition Schedule (RDS).  Contact supporting records managers as required.  
+
+2  SHAWAFBI11 -250 
+ 
+ 
+SUMMARY OF CHANGES    
+ 
+This document has been substantially revised and must be completely reviewed.    
+Chapter 1 —GENERAL INFORMATION
+ 
+ Chapter 2 —AIRFIELD MAGAGEMENT
+ 
+ Chapter 3 —GROUND OPERATIONS
+ 
+ Chapter 4 —FLIGHT OPERATIONS
+ 
+ 
+Chapter 5 — SPECIAL USE AIRSPACE  OPERATIONS  
+ Chapter 6 —SPECIAL PROCEDURES
+ 
+ Chapter 7 —EMERGENCY PROCEDURES
+ 
+ Chapter 8 —QUALITY CONTROL PROGRAMS
+ 
+ Chapter 9 —MISCELLANEOUS
+  
+ Attachment 1 —GLOSSARY OF REFERENCES AND SUPPORTING INFORMATION
+ 
+ Attachment 2 —AIRFIELD DIAGRAM/LIGHTING/MARKINGS/VISUAL AIDS
+ 
+ Attachment 3 —VFR TRAFFIC PATTERN AND REPORTING POINTS
+ 
+ Attachment 4—VFR DEPARTURE PROCEDURES
+ 
+ Attachment 5 —POINSETT RANGE AND MOA
+ 
+ Attachment 6 —SPECIAL USE AIRSPACE
+ 
+ Attachment 7 —RADAR TRAFFIC PATTERNS
+ 
+ Attachment 8 —MINIMUM RISK DEPARTURE AND ARRIVAL (MRD/MRA)
+ 
+ 
+ 
+  
+SHAWAFBI11 -250   3 
+ 
+Chapter 1  
+ 
+GENERAL INFORMATION 
+ 
+1.1.  Runways .  (See Attachment 2 ) 
+ 
+1.1.1.  The primary instrument and emergency runway is Runway 04L/22R.  1.1.2.  The Simulated Flameout (SFO) pattern runway is Runway 04R/22L.  1.1.3.  The Tower Watch Supervisor (WS), in coordination with the Supervisor of Flying (SOF) , will designate the runways in use IAW FAAO JO 7110.65
+. 
+ 1.1.4.  Runway 04L/22R will close every 1st/3rd Monday and Runway 04R/22L will close every 2nd/4th Monday of the month from 0700L to 1100L for preventative maintenance (PM).  
+1.1.4.1.  Runway PM times will be canceled in order  to support any higher headquarters 
+(HHQ) requirement or as directed by the 20 OG/CC or SOF  to meet mission 
+requirements.  
+ 
+1.2.  Taxiways.  ( See Attachment 2
+) 
+ 
+1.2.1.  T wys B, D, E, F, and G are 75' wide. 
+ 
+1.2.2.  Twy  C is 100' wide.   
+ 1.2.3.  Twy  A varies from 25' -35' wide from the edge of apron. 
+ 
+1.2.3.1.  Tw y A, between Twy E and Twy G , is restricted to aircraft with wingspans of 
+50' or less .  The airfield  manager must coordinate and approve exceptions/deviations. 
+ 
+1.3.  Controlled Movement Area (CMA) .  (See Attachment 2
+) The Shaw AFB CMA  includes 
+the runways, all of the area and taxiways between the runways (including the access  road between 
+the runways), overruns and the first 100 feet adjacent to a ll runways and overruns.  Control Tower 
+personnel are responsible for operations within the CMA.   
+ 
+1.3.1.  All taxiways and ramps west of Runway 04L/22R and east of Runway 04R/22L are  
+uncontrolled.  Exercise e xtreme caution and look for opposite -direction traffic while taxiing .  
+Maximum taxi speed is 25 knots, 15 knots in congested areas, and 10 knots  in the hot pit 
+refueling and parking areas.  
+ 1.3.2.  Prior to entering the CMA, personnel must possess a valid airfield driver’s license  
+stamped for  use at Shaw AFB .  Additionally, when the Tower is operational, personnel and 
+vehicles must gain  approval by the Tower  (Ground Control) before entering the CMA  and 
+maintain direct, two -way radio communication with Tower at all times or be escorted by a 
+vehicle that can .  All vehicles must monitor the Ramp net while operating in the CMA. 
+4  SHAWAFBI11 -250 
+ 
+ 
+
+1.3.3.  Emergency runway evacuation .  Personnel and equipment will exit the movement area 
+by the most direct route possible i f two -way radio contact is lost.  In the event Tower cannot 
+establish radio communication in  an emergency, Tower will use light-gun signals and, if 
+necessary, will raise and lower the runway light intensity  to indicate that personnel and 
+equipment must immediately exit the movement area.  
+ 
+1.4.  Permane ntly Restricted Areas on Airfield .  Restricte d Areas are depicted in Attachment 2  
+and SAFB Plan 31 -101, Integrated Defense Plan . 
+ 1.5.  Hours of Operation. 
+ 
+1.5.1.  Shaw AFB Airfield and ATC facility hours of operation are outlined in  the DOD IFR 
+Enroute Supplement , Airfield Facility Directory (AFD) .  Changes to these hours are posted 
+as NOTAMs.  Airfield hours are also posted to the Shaw AFB Airfield Status SharePoint site: 
+https://usaf.dps.mil/sites/13437/sitepages/air field%20status.aspx
+.  
+ 1.5.2.  Airfield hours of operation may be extended or reduced to support the 20 FW flying schedule, HHQ tasked missions, and approved PPRs.  1.5.3.  Request for Extended Airfield Operating Hours. 
+ 
+1.5.3.1.  20 OG/CC approval of the 20 FW Flying Schedule authorizes extended airfield operating hours.    1.5.3.2.  Aircraft supporting the 20 FW will be approved via the PPR process .   
+  
+1.5.4.  Airfield Operations Flight Commander (AOF /CC) will ensure:  
+ 
+1.5.4.1.  The Airfield shall open 1 hour prior to any scheduled arrival or departure.  1.5.4.2.  Airfield Management Operations (AMOPs) will notify Command Post, Security Forces (SFS), Weather (WX) and the Maintenance Operations Center (MOC) of any non -
+standard airfield hours.  1.5.4.3.  The airfield  will remain open until all aircraft have shut down engines  or until 
+30 minutes after the last aircraft departure.  
+ 
+1.5.5.  In the event of an emergency or situation requiring the airfield to open outside normal operating hours, the following procedures apply:  
+ 
+1.5.5.1.  Command Post shall recall the AOF /CC’s  designated representative.  
+ 1.5.5.2.  Control Tower and AMOPs personnel shall open the airfield within 2 hours of 
+initial notification.  
+ 
+SHAWAFBI11 -250   5 
+ 
+1.6.  Prior Permission Required (PPR)  / Official Business Only (OBO) .   
+ 
+1.6.1.  Refer to the DOD IFR Enroute Supplement for PPR/OBO requirements and Transient 
+Alert (TA) hours of operation.    1.6.2.  AMOPs will coordinate with TA for PPRs that occur outside normal  hours of operation. 
+ 1.7.  Airspace.   
+ 
+1.7.1.  Shaw AFB controlled airspace is defined in 
+FAAO JO 7400.11E, Airspace 
+Designations and Reporting Points .  IAW FAAO JO 7400.11E , Class D Airspace will be 
+activated by NOTAM .   
+ 1.7.2.  The RADAR Approach Control (RAPCON) delegated airspace description is in Annex 1 of the 
+Jacksonville Center and Shaw AFB RAPCON Letter of Agreement (LOA) titled 
+Approach Control Services .   
+ 
+1.8.  Airfield Lighting Systems .  The airfield lighting system will be operated IAW FAAO JO 
+7110.65  and AFMAN 13 -204V3. (See Attachment 2 ) 
+ 
+1.8.1.  Both runways have the following lighting systems:  
+ 
+1.8.1.1.  High Intensity Runway Lights (HIRL).  All threshold l ights are gated and have 
+an ACC -approved waiver on file. 
+ 
+1.8.1.2.  High Intensity Approach Lights.  Runway 04L, 22R and 22L are ALSF-1 
+systems .  Runway 04L has a shortened 2,400 feet system and Runways 22R/22L have 
+standard 3,000 feet systems.  Runway 04R has a SALSF with a standard 1,500 feet system.  
+ 1.8.1.3.  Sequenced Flas hing Lights (SFLs). 
+ 1.8.1.4.  Precision Approach Path Indicators (PAPI).  The PAPIs are coincidental with  the 
+Instrument Landing System (ILS) runway point of intercept. 
+ 1.9.  Notice to Airman (NOTAM) Monitoring Facility .  AM Ops is the NOTAM issuing  
+facility , and Tower is the NOTAM monitoring facility for all NOTAMs/local NOTAMs 
+pertaining to operations on Shaw AFB.  1.10.  Automatic Terminal Information Service (ATIS) .  ATIS shall be updated IAW 
+FAAO 
+JO 7110.65 .  (See Table 1.1 .)  
+ 1.11.  Radio Frequencies .  (See Table 1.1 .)   
+6  SHAWAFBI11 -250 
+ 
+ 
+Table 1.1.  Local Radio Frequencies.  
+ 1.12.  Radar, Airfield and Weather Systems (RAWS) Maintenance. 
+ 
+1.12.1.  The RAWS  work  center  tracks, schedules, and documents all Preventative 
+Maintenance Inspections (PMIs) and un- scheduled outages through the Integrated 
+Maintenance Documentation System (IMDS).  
+ 
+1.12.2.  All RAWS  facilities have back -up generators to provide alternative power in the event 
+of commercial power loss.  
+ 
+1.13.  Lightning/Severe Weather.   
+ 
+1.13.1.  SAFB Plan 15-101, Weather Support
+, governs lightning/severe weather notification , 
+dissemination and coordination procedures. 
+ 
+1.13.2.  If lightning is reported within a 5 NM radius of Shaw  AFB , or severe weather is 
+observed in the immediate area, aircraft are authorized to taxi to park .  If not taxiing to park, 
+pilots should wait in End of Runway ( EOR ) or hot pit holding area  or consider taxiing to the 
+nearest vacant shelter in the event of hail/severe weather.  
+ AGENCY  UHF  VHF  Channel  
+Squadron Operations (55th/77th/79th) 311.2/273.7/320.525  N/A 1 
+Ground/Clearance Delivery  275.8  126.1  2 
+Local (Tower)  254.25  126.65  3 
+Approach/Departure  318.1  125.4  4 
+JAX ARTCC Low CAE  269.55  124.7  5 
+JAX ARTCC Low FLO  306.3  133.45  6 
+JAX ARTCC Low CHS  317.55  134.375  7 
+DOUBLESHOT  228.75  127.725  8 
+W177 Discrete  258.4  N/A 9 
+W161 Discrete  279.725  N/A 10 
+Atlanta Center  322.325  N/A 11 
+BULLDOG MOA  343.75  N/A 12 
+Myrtle Beach Approach  257.95  N/A 13 
+ROBROY MOA  254.35  N/A 14 
+Poinsett Range  264.7  N/A 15 
+GAMECOCK D MOA  / EOR Crew  269.0  49.750  16 
+Arrival  225.4  133.25  17 
+SOF 252.1  140.2  18 
+Single Frequency Approach  363.8  134.875  19 
+ATIS  270.1  132.125  20 
+Command Post (RAYMOND 26)  381.3  N/A - 
+Pilot -to-Dispatch  372.2  139.6  - 
+SHAWAFBI11 -250   7 
+ 
+1.13.3.  During lightning within 5 NM Weather Warnings, ground crew personnel will be 
+unavailable due to safety concerns.  1.13.4.  Base -assigned aircraft requesting to park in shelters may do so provided the following 
+conditions are met: 
+ 
+1.13.4.1.  Aircraft not armed with live munitions , to include hazard class 1.1 and/or 1.2. 
+ 1.13.4.2.  Aircraft coordinate parking actions with SOF  IAW the 
+20 FW SOF Quick 
+Reference Checklist (QRC) . 
+ 1.13.4.3.  If fuel reaches 800 pounds, pilots will inform the SOF/Top 3 with tail number and current location .  Maintenance will chock the aircraft, but not pin the EPU and/or 
+Chaff/Flare .  Pilots will turn the EPU to OFF and shutdown in chocks prior to reaching 
+600 pounds. 
+ 
+1.14.  Other.  
+ 
+1.14.1  Deviations.  Deviations and waivers from operational directives outlined in this 
+instruction must be approved by the 20 OG/CC unless an in- flight emergency precludes 
+requests.  
+ 1.14.2.  Recommendations for Change.  For proposed changes, contact 20 OSS/OSA .   
+  
+8  SHAWAFBI11 -250 
+ 
+ 
+Chapter 2  
+ 
+AIRFIELD MANAGEMENT  
+ 
+2.1.  Runway Closure and Suspension Procedures.  
+ 
+2.1.1.  AMOPs is the authority to open, close or resume runway operations.  2.1.2.  The following personnel have the authority to suspend runway operations: 
+ 
+2.1.2.1.  20 OG/CC   2.1.2.2.  Incident Commander (IC)  2.1.2.3.  AMOPs   2.1.2.4.  SOF  
+ 2.1.2.5.  Tower  
+ 
+2.1.3.  AMOPs personnel must visually inspect the runways before resuming runway operations, unless waived by the SOF.  2.1.4.  Runway operations are automatically suspended when:  
+ 
+2.1.4.1.  An aircraft is disabled on the runway (includes inside the VFR hold lines).  2.1.4.2.  An aircraft engages aircraft arresting gear (BAK -12 or MB -100 textile barrier).  
+ 2.1.4.3.  The first emergency vehicle enters the runway following an emergency landing.  2.1.4.4.  Foreign Object Debris (FOD) is suspected/discovered on the runway.  2.1.4.5.  Barrier configuration changes.  
+ 2.1.4.6.  After heavy aircraft departures and full -stop arrivals.   
+ 
+2.1.4.6.1.  For multiple heavy aircraft arrivals, FOD checks may be completed after the last landing, except for any B -747 variant, C -5, AN -124 or similar type aircraft.  
+ 
+2.1.5.  The SOF may waive FOD checks following an emergency landing, except after an aircraft arresting gear engagement .   
+ 2.2.  Runway Selection.  
+ 
+2.2.1.  Airfield checks and inspections will be IAW AFMAN 13 -204V3
+. 
+SHAWAFBI11 -250   9 
+ 
+ 
+2.2.2.  The Tower WS will designate the runways in use.    2.2.3.  Runway change procedure: Tower WS will coordinate with W X, SOF and RAPCON 
+WS to determine the existing traffic situation and to identify the last aircraft to use the existing runways.  When changing runways, the barriers on Rwy  04L/22R should be configured first.   
+ 
+2.2.7.  Tower will advise  RAPCON WS, Fire Department, W X and AMOPs that a runway 
+change is in -progress and which runway is to be changed first. 
+ 
+2.2.7.1.  AMOPs will notify Command Post, MOC and Barrier Maintenance.  2.2.7.2.  A fter hours, Emergency Control Center ( ECC ) will notify Barrier Maintenance.  
+ 
+2.2.8.  In the event the automated wind sensor switching equipment is inoperative, Tower will 
+notify WX of the runway change, who will then switch the wind sensor equipment. 
+ 2.3.  Aircraft Arresting Systems .  (See Attachment 2
+ & DOD IFR Enroute Supplement) 
+ 
+2.3.1.  Shaw AFB has six BAK -12 and two MB -100 arresting systems .  The BAK -12s are 
+labeled in order by number starting on the inside runway, going south to north.  The MB -100s 
+are labeled as “north” and “south,” respectively .  The standard aircraft arresting system 
+configuration for all runways will be as follows , unless a deviation is approved by the SOF: 
+ 
+2.3.1.1.  Underrun, Overrun and departure end cab les connected .   
+ 
+2.3.1.2.  Approach end cable disconnected. 
+ 
+2.3.2.  20 CES/CEOFP (Barrier Maintenance) shall inspect and certify each arresting system: daily (prior to wing flying), after maintenance and  when requested by Tower, AMOPs  or SOF .   
+ 
+2.3.2.1.  During non- duty hours, AMOPs will recall Barrier Maintenance standby 
+personnel to certify the systems, if required.   
+ 
+2.3.3.  When the airfield is open, Barrier Maintenance shall obtain approval from AMOPs before starting any maintenance that will impact any arresting system.    2.3.4.  Barrier Certifications will be IAW AFI 32 -1043
+ and as stated below:  
+ 
+2.3.4.1.  Cable certifications must be approved by the 20 OG/CC.  Events will be printed 
+on the daily flying schedule and the runway may be NOTAM’d closed.  2.3.4.2.  Barrier Maintenance will verify certification due dates and barrier maintenance scheduling and provide this information to the Airfield Manager monthly.  2.3.4.3.  Barrie r Maintenance will notify 20 OSS/Wing Scheduling, IAW 
+20 OG O I 14-
+10  SHAWAFBI11 -250 
+ 
+ 
+1, Wing Scheduling Operations , at least 2 weeks prior to the annual barrier certification  
+expiration date. 
+ 
+2.3.4.4.  Flight Safety, Crash Recovery and the airfield sweeper  will be notified prior to 
+any certification engagement.  
+ 2.3.4.5.  The designated Fighter Squadron/Fighter Generation Squadron (FS/FGS) will 
+provide an F-16 aircraft with no centerline stores prior to the scheduled engagement.      2.3.4.6.  Practice or certification engagements will not be conducted when the runway surface condition is wet .   
+ 2.3.4.7.  AMOPs, Sweeper, Crash Recovery and Fire Department will be present during all certification engagements.  
+ 2.3.4.8.  The barrier certification will be conducted on the emergency discrete frequency.  
+ 
+2.3.4.9.  Pilots will confirm with the SOF that all local flying is complete before beginning the barrier engagement .   
+ 2.3.4.10.  Pilots will e ngage the cable toward the center of the runway.  
+ 
+2.3.4.10.1.  For overrun/underrun cables, the surface must be swept  immediately 
+prior to engagement.  Pilots will first taxi onto the overrun, then engage the cable 
+toward the runway, offsetting any overrun lights by 10 feet to ensure the hook 
+maintains contact with the runway.  
+ 2.3.4.11.  Barrier Maintenance will direct the speed required to certify, based on weight. 
+ 
+2.3.5.  Barrier Disengagement.  
+ 
+2.3.5.1.  Once the aircraft has engaged the barrier and comes to a complete stop, the Fire Chief will signal for the pilot to shut down the engine and await further instructions. 
+ 
+2.3.6.  When reporting arresting gear system status, the following terms will be used:  
+ 
+2.3.6.1.  Connected and Operational: when strung and ready for engagement.  2.3.6.2.  Disconnected: not strung but available to be strung for engagement.  2.3.6.3.  Out of Service: barrier system requires maintenance.  
+ 
+2.4.  Bird Watch Conditions/Procedures .  (See 
+SAFB PLAN 91 -212, Bird Aircraft Strike Hazard 
+(BASH)  for detailed description)  
+ 
+2.4.1.  Low—Normal Operation  
+SHAWAFBI11 -250   11 
+ 
+ 
+2.4.2.  Moderate— Low approaches and chase aircraft limited to events that could not be 
+accomplished at other airfields and are required for training or checkrides.  No formation approaches.  
+ 
+2.4.2.1.  Low Altitude Structure .  1,000 feet AGL minimum, except as required for 
+weapons delivery (defined as within 10 NM of target).  If low altitude currency is 
+required for contingency operations or training requirements, minimize time in low altitude structure below 1 ,000 feet AGL.  
+ 2.4.2.2.  Poinsett Range .  1,000 feet AGL minimum, except as required for weapons 
+delivery (defined as base position for the curve pattern) .  No pop patterns unless required 
+for syllabus sorties.  
+ 
+2.4.3.  Severe.  No takeoffs, landings only with 20 OG brickholder  permission, relayed 
+through the SOF.   
+ 2.4.3.1.  Low Altitude/Range .  3,000 feet AGL minimum. 
+ 
+2.5.  Distinguished Visitors (DV) Notification Procedures .   
+ 
+2.5.1.  AMOPs will conduct DV notification procedures IAW the Airfield Management 
+Operating Instr uction. 
+ 
+2.6.  Civilian Aircraft Landing Permits (CALP).  
+ 
+2.6.1.  CALPs will be  IAW 
+AFI 10 -1001, Civil Aircraft Landing Permits .   
+ 
+2.6.2.  The Airfield Manager is the 20 FW designated representative for processing and 
+endorsing civil aircraft landing permit forms .   
+ 2.6.3.  Civil aircraft may use ATC services for IFR/VFR approaches with the following instructions: 
+ 
+2.6.3.1.  Terminate in a low approach only.  2.6.3.2.  Do not disrupt 20 FW flying operations.  2.6.3.3.  Comply with any standing restrictions .   
+ 2.6.3.4.  May be restricted based on force protection conditions (FPCON). 
+ 
+2.6.4.  FAA Flight Check aircraft do not require a PPR and are permitted to land and conduct ground checks in the performance of flight inspections. 
+ 2.7.  Unscheduled/Unauthorized Aircraft Arrivals .  For military aircraft, violations will be 
+12  SHAWAFBI11 -250 
+ 
+ 
+handled IAW AFMAN 13 -204V3 and SAFB Plan 13 -207, Stop Alert , and Civilian aircraft will be 
+processed IAW AFI 10 -1001 . 
+ 
+2.8.  Airfield Rep air and Construction.   
+ 
+2.8.1.  All routine/emergency airfield maintenance within the airfield environment must be 
+coordinated with the Airfield Manager prior to execution.    2.8.2.  Construction projects that are not considered routine/emergency and violate airfield criteria IAW 
+Unified Facilities Criteria (UFC) 03 -260-01, Airfield and Heliport Planning and 
+Design, require a temporary construction waiver (TACW) approved by the 20 OG/CC.   
+ 
+2.8.2.1.  TACW requests shall be IAW UFC 03 -260-01 .   
+ 2.8.2.2.  TACW requests must be approved at least 45 days before project execution.    2.8.2.3.  20 Civil Engineering Squadron Community Planner (20 CES/CEAO) is the point 
+of contact (POC) to initiate TACW requests.  
+ 
+2.9.  Contractors working on the Airfield .  All contracting procedures will be annotated in the 
+TACW.  
+ 2.10.  Master Aircraft Parking Plan .  (See Attachment 2
+) 
+ 
+2.9.1.  The Airfield Manager is the office of primary responsibility (OPR) for developing the aircraft parking plan . 
+ 2.10.2.  The Airfield Working Group ( AWG) will review the aircraft parking plan as part of 
+the annual Airfield Safety and Certification Inspection.  2.10.3.  Requests for reallocation or changes to apron marking schemes/aircraft parking locations must be submitted to the Airfield Manager for consideration and approval.    2.10.4.  Anytime 20 FW aircraft are parked outside an established Restricted Area, the owning FGS or MOC will advise 20 SFS  Base Defense Operations Center (BDOC) . 20 OSS/OSAA 
+will notify 20 SFS for any transient aircraft requirin g the opening of an additional Restricted 
+Area via established Prior Permission Required (PPR) Log
+ on SharePoint.   
+ 
+2.10.5.  All parking aprons are owned and managed by AMOPs .  All other units shall coordinate 
+with AMOPs prior to utilization except the following aprons:  
+2.10.5.1.  North Fighter Ramp.    2.10.5.2.  Romeo Row.  2.10.5.3.  N-Row: 20 MXG is allocated spots 20 and 21.   
+SHAWAFBI11 -250   13 
+ 
+ 
+2.10.6.  The EOR  is the designated hung bomb/rocket/gun/flare parking spot. 
+ 
+2.10.6.1.  A ny unnecessary  personnel will evacuate the EOR  once an emergency is 
+declared for a hung bomb/ rocket/ gun/flare  (announced over the MOC  and RAMP  Nets) 
+and will remain clear of the cordon established by the On -Scene Commander  until the 
+emergency is terminated .   
+ 
+2.11.  Airfield Sweeper.  
+ 
+2.11.1.  20 CES will ensure an airfield sweeper is scheduled or on -call during airfield 
+operating hours IAW NOTAMs or the Airfield Status SharePoint site .   
+ 2.11.2.  An on-call airfield sweeper is required to respond to AMOPs request within 1 hour.  2.11.3.  Airfield sweepers will notify AMOPs when they are on and off the airfield.  
+ 
+2.12.  Transient Alert .  TA hours of operation and contact info can be found in the DOD Enroute 
+IFR Supplement. 
+ 2.13.  Grass Mowing .  Vegetation on the airfield shall be maintained IAW 
+AFI 91 -202, The US 
+Air Force Mishap Prevention Program , AFI 91 -212, Bird/Wildlife Aircraft Strike Hazard (BASH) 
+Management Program , and SAFB Plan 91-212 .   
+ 
+2.14.  Runway Condition Reading (RCR)/Runway Surface Condition (RSC) Procedures .   
+ 
+2.14.1.  RCR/RSC readings will be determined IAW AFMAN 13 -204V3 . 
+ 
+2.14.2.  The SOF shall update the Airfield  Status SharePoint site , if required. 
+ 
+2.15.  Special /Unusual Events .  Events that may interfere with normal flying activities must be 
+requested through AMOPs  at least 30 days in advance. 
+ 
+2.16.  Airfield Weight -Bearing Waivers. 
+ 
+2.16.1.  The 20 OG/CC has delegated authority to approve airfield weight -bearing waivers to 
+the Airfield Manager.  
+ 
+2.16.2.  Approved airfield weight -bearing waivers will be tracked by AMOPs .  They will also 
+be briefed in the quarterly AOB , along with the remaining passes available.   
+ 2.17.  Flight Information Publications  (FLIP) .  Please contact the flight information account 
+custodian at AMOPS for more  information.  
+ 
+2.18.  Airfield Photography. 
+ 
+14  SHAWAFBI11 -250 
+ 
+ 
+2.18.1.  Unauthorized photography is prohibited on the airfield.  C ontact public affairs at (803) 
+895-2019 and/or SFS at (803) 895-3669 for more information.  
+SHAWAFBI11 -250   15 
+ 
+Chapter 3  
+ 
+GROUND OPERATIONS  
+ 
+3.1.  General .   
+ 
+3.1.1.  Flight Briefings .  A weather  briefing and a N otices to Airman (NOTAMs) 
+briefing/update is required for every  flight.  Flight leads are also responsible for adequately 
+briefing  Special Interest Items (SIIs) and applicable FCIFs before all flights .  For quick-
+turns/pits/multiple flights, the Operations Supervisor and/or SOF will ensure pilots are 
+informed of any s ignificant changes to their initial weather briefing or factor NOTAMs.  
+ 3.1.2.  Basic Risk Management (RM) procedures are IAW  
+AFI 90 -802_ACCSUP, Risk 
+Management , paragraph 2.10. and the following: 
+ 3.1.2.1.  20 OG RM assessment worksheets
+ must be filled out before every flight briefing.  
+ 3.1.2.2.  Flight leads are responsible for determining the particular risks associated with their planned/backup missions, including individual pilot risk factors (fatigue, 
+experience, proficiency, etc.) .  The Operations Supervisor (or appropriate RM approval 
+authority) will review 20 OG RM assessment worksheets and discuss applicable risk/mitigations with the flight lead prior to step .  The RM approval authority must 
+understand and concur with the level of risk/mitigations the pilot  is accepting .  The 
+approval authority may elect to make changes to the profile or ultimately cancel the sortie based on the associated risk .   
+ 3.1.2.3.  Operations Supervisors and Aircrew will continually assess and update RM decisions throughout the duration of the sortie to account for developing risks such as maintenance delays, real world taskings, weather, flight profile changes, etc .   
+ 3.1.2.4.  Units will keep RM worksheets on file for 1 month for lookback purposes in the event of a mishap or maintenance finding .   
+ 
+3.1.2.5.  Additional 20 OG RM Worksheet procedures:  
+3.1.2.5.1.  Paper copy RM assessment worksheets for each flight will be placed next to the AF IMT 4327 (sign- out sheet).  Each pilot will fill out their individual 
+“PERSON” risk factors prior to the flight brief .  Flight leads (or #3’s) will review 
+RM worksheets and ensure relevant mission risk factors and/or any additional individual “PERSON” risk factors are addressed during the flight brief.    3.1.2.5.2.  Under “PERSON” factor s, combine scores for all flight members .   
+ 3.1.2.5.3.  RM sheets will be turned into the Operations Supervisor prior to step for review and approval.    
+16  SHAWAFBI11 -250 
+ 
+ 
+3.1.2.6.  20 OG RM Worksheet Approval. 
+ 
+3.1.2.6.1.  Low-risk flights will be approved by the Operatio ns Supervisor. 
+ 
+3.1.2.6.2.  Medium- risk flights will be approved by the FS/CC or FS/DO. 
+ 3.1.2.6.3.  H igh-risk flights will be approved by the 20 OG/CC, CD, or daily brick 
+holder.  3.1.2.6.4.  Verbal approval for medium and high- risk flights is allowed .  The 
+Operations Supervisor will annotate verbal approvals by writing “VERBAL” in the approval container, with the name/position of approving official.   
+ 3.1.3.  Electronic Flight Bag (EFB) .  The following FLIP will be downloaded and available 
+on an EFB prior to flight: High and low terminal approach books encompassing local area and all possible diverts, IFR high charts encompassing local area, DOD IFR Enroute Supplement, and Flight Information Handbook.  Paper copies may  be used as a backup. 
+ 3.1.4.  Incentive Flights.  All incentive flight profiles must be approved by the FS/DO .  
+Additional incentive flight restrictions are IAW 
+AFI 1 1-401_ACCSUP, Aviation 
+Management  and the 20 FW In -Flight Guide  (IFG).  
+ 3.1.5.  Anti -exposure suits will be worn IAW 
+AFMAN 11 -301V2, Management and 
+Configuration Requirements for Aircrew Flight Equipment  (AFE) , para 2.2.2.2.  Gliding 
+distance to land is not a criteria in determining whether or not anti- exposure suits are to be 
+worn .  Local weather, as mentioned in AFMAN 11 -301V2  refers to the temperature over the 
+water, not Shaw AFB ai r temperature.  
+ 3.1.6.  Ice FOD .  When an Ice FOD Alert is issued, follow procedures located in the 
+20 FW 
+IFG.  Make an AFTO 781, ARMS Aircrew/Mission Flig ht Data Document, write -up anytime 
+icing (ground or air) is encountered. 
+ 3.1.7.  ECM Pod Operations.  For training missions, if the ECM pod does not successfully time-in and Standby (STBY) status is not achieved prior to takeoff, Operations Supervisor 
+approval is required to continue the mission.  Pilots will leave the pod in STBY and make an 
+AFTO 781 write -up after the flight for “possible cold soak condition.”   If the pod is discovered 
+in the OFF position in- flight, turn the pod on above 10,000 feet MSL.  If the pod times in 
+prior to descending below 10,000 feet MSL , then no cold soak condition exists.  Use the same 
+procedures above for a HTS pod that does not power up.  The left hardpoint should be kept ON after troubleshooting a sick HTS pod. Pilots will ensure a non-combat program is loaded when using the ECM pod in training. 
+ 
+3.2.  Aircraft Flight Plans.  
+ 
+3.2.1.  All military aircraft departing Shaw AFB must have a flight plan on file prior to takeoff .   
+ 
+SHAWAFBI11 -250   17 
+ 
+3.2.1.1.  DD Form 1801, Local stereo or canned  flight plans for base -assigned aircraft 
+will be filed by their squadrons IAW the local LOA, Special Procedures for 20th Fighter 
+Wing Operations in the National Airspace System , 1 hour prior to proposed takeoff time .  
+NOTE: Deployed/TDY units flying local sorties with 20 FW units may be included on the 
+wing flying schedule and utilize the local stereo or canned flight plans.   
+ 3.2.1.2.  All other flight plans will be filed via AMOPs at least 1  hour prior to scheduled 
+takeoff time.  
+ 
+3.2.2.  Civilian aircraft are not required to have a flight plan on file but must coordinate with Tower prior to engine start.  3.2.3.  Original flight plans may not be accepted via radio .   
+ 3.2.4.  Changes to locally assigned aircraft flight plans may be made by calling directly through the squadron operations desk.   
+ 
+3.2.5.  Altitude Reservation (ALTRV) Flight Plans.  
+ 
+3.2.5.1.  Airspace Management (20 OSS/OSOA) will:  
+ 
+3.2.5.1.1.  Maintain a record of ALTRV flights plans.  3.2.5.1.2.  Provide a full copy of the approved ALTRV to the AMOPs email org box:  20oss.baseops@us.af.mil
+.   
+ 3.2.5.1.3.  For ALTRVs terminating prior to destination airport; ensure aircrews file a DD Form 1801. 
+ 
+3.2.5.2  Any ALTRV that leaves US airspace, regardless of destination, must file a DD Form 1801.  3.2.5.3.  The agency that files the flight plan  will not make changes to ALTRV flight 
+plans.  3.2.5.4.  Amendments must be forwarded to Airspace Management and approved through ZJX.  
+  
+3.2.6.  During Flight Data System outages, the agency filing flight plans will advise Tower of the following on all filed IFR flight plans: 
+ 3.2.6.1.  Aircraft call sign.  
+ 3.2.6.2.  Number/type aircraft/equipment suffix.  
+ 3.2.6.3.  Destination.  
+18  SHAWAFBI11 -250 
+ 
+ 
+ 
+3.2.6.4.  Proposed departure time.  3.2.6.5.  First leg of flight.  
+ 3.2.6.6.  Remarks, to include stereo number.  
+3.2.7.  Flight leads will ensure desired military training routes (MTRs) are scheduled with the 
+route’s scheduling authority and annotated in the airspace column of the daily schedule.  Low 
+Level Training Routes (LLTRs) will not be bootlegged real-time, to ensure adequat e mission 
+planning focus and prevent potential conflicts with aircraft flying from intersecting LLTRs.  
+ 3.3.  Clearance Delivery Procedures .    
+ 
+3.3.1.  Stereo Flight Plans will be executed IAW the 20 FW/Jacksonville Center (ZJX) LOA
+.  
+When Shaw AFB Ground Control issues "CLEARED VIA THE SSCXXX STEREO 
+FLIGHT PLAN" the aircrew is cleared as filed per the applicable route listed in the LOA .  
+When cleared via a stereo route, aircrews will execute standard climb -out until instructed to 
+proceed on course by Departure Control, and expect their requested altitude 10 minutes after departure.  
+ 
+3.3.1.1.  Local Chan nel 4 (UHF 318.1) will be used as the departure frequency .  Squawks 
+will be assigned by ATC.  
+ 3.3.1.2.  For Trail Departures, lead aircraft will squawk the assigned discrete Mode 3 code, and the last wingman to depart will squawk the non- discrete subset (X X00) until 
+flight has rejoined. 
+ 3.4.  Arming  
+ 
+3.4.1.  The Primary Arm/Dearm location will be in chocks .   
+ 3.4.2.  Prior to arming/dearming, pilots will ensure the master arm switch is OFF or SIM .   
+The pilot’s hands will be in full view of the arm/dearm crew and will not activate switches with arm/dearm personnel under the aircraft without permission from the crew chief. 
+ 
+3.5.  Taxi Restrictions .   
+ 
+3.5.1.  All permanent taxi restrictions are published in the DOD FLIP Area Planning (AP/1) 
+and supplemented as described below.   
+ 
+3.5.1.1.  Aircraft will taxi on the centerline when utilizing Twy Alpha abeam the sunshades and apply normal taxi spacing.  Do not offset/stagger abeam the sunshades.    3.5.1.2.  Twy Bravo and Twy Golf centerline stripes only ensure wingtip clearance for F-16 aircraft  while other F-16s are parked in the End of Runway (EOR). 
+SHAWAFBI11 -250   19 
+ 
+ 
+3.5.1.3.  Twy Bravo and Twy Golf EOR spots do not provide adequate wi ngtip clearance 
+for all eight  spots to be utilized .   
+ 
+3.5.1.3.1.  When RWY 04L/R is in use, aircraft cannot use the Twy Bravo spot farthest from the runway and Twy Golf spot closest to the runway.  NOTE: Prior 
+to takeoff, holding aircraft should utilize P-Row parking apron for overfl ow.   
+ 3.5.1.3.2.  When RWY 22L/R is in use, aircraft cannot use the Twy Golf spot farthest from the runway and Twy Bravo spot closest to the runway .  NOTE: Prior 
+to takeoff, holding aircraft should utilize Twy Golf Center EOR for overflow .   
+ 
+3.5.1.4.  Wh en the official ceiling is observed less than or equal to 250 feet and/or 
+visibility is less than or equal to ¾ Statute Miles (SM), the two EOR spots closest to the runway on Twy Golf (west of Rwy 22R) are not available to protect the Precision 
+Obstacle Fr ee Zone (POFZ) .  Tower will alert aircraft/vehicles via a blanket broadcast 
+on Ground Control and RAMP NET frequencies.   
+ 
+3.5.2.  Any exception or deviation must be approved by AMOPs. 
+ 
+3.6.  Uncontrolled Movement Area Aircraft Taxi Procedures .   
+ 
+3.6.1.  Aircraft taxiing for departure have priority over aircraft returning to parking. 
+ 3.6.2.  Pilots will mo nitor guard and Ground Control frequencies (UHF or VHF) while taxiing .     
+ 
+3.7.  Aircraft Towing Procedures .   
+ 
+3.7.1.  Aircraft towing procedures will be IAW SHAWAFBI 13 -213
+. 
+ 
+3.8.  Precision Approach Critical Areas .   
+ 
+3.8.1.  Precision Approach Critical Areas will be protec ted IAW AFMAN 13 -204V3 . 
+ 3.8.2.  Shaw AFB has Category (CAT) I Instrument Landing Systems (ILS).    3.8.3.  All Shaw AFB Precision Approach Critical Areas are contained within the ELT, except 
+the entirety of the POFZ .   
+ 
+3.8.3.1.  The POFZ affects the two Twy Golf EOR spots closest to the runway , as detailed 
+in paragraph 3.5.1.4. 
+ 
+3.9.  Hot Pit Refueling .   
+ 
+3.9.1.  20 MXG/MOC  shall notify AMOPs prior to hot pit set -up and when completed for the 
+day.   
+20  SHAWAFBI11 -250 
+ 
+ 
+ 
+3.9.2.  When OPLAN 74 -95 REBOUND ECHO is in effect, the primary hot pit location will 
+be unavailable.  
+ 3.9.3.  When truck hot pits are open, all aircraft will follow the direction of the hot pit marshal and utilize the designated holding areas.    3.9.4.  Shaw AFB has one UH -60 helicopter sited hot pit location at the secondary hot pit 
+location  (FD Ramp —See Attachment 2
+).   
+ 
+3.9.4.1.  All fuel support requirements for hot pit operations will be prior -coordinated 
+between requesting aircrews  and Shaw AFB POL .  Aircraft will n otify AMOPs of request 
+via a PPR .   
+ 3.9.4.2.  UH-60 helicopter hot pits are not authorized between sunset and sunrise. 
+ 
+3.9.5.  Pilots will execute Hot Pit Procedures IAW the 20 FW IFG
+. 
+ 
+3.9.5.1.  Pilots will accomplish post- hot pit Emergency Power Unit (EPU) checks before 
+leaving the pits , unless returning to the chocks for engine shutdown IAW 1F-16CM-1 . 
+ 3.9.6.  Do not hot pit refuel with: 
+ 
+3.9.6.1.  Less than 800 pounds of fuel remaining .   
+ 3.9.6.2.  Fuel system malfunctions.  
+ 3.9.6.3.  Unexpended ordnance that cannot be pinned.  3.9.6.4.  Fire truck not available. 
+ 
+3.9.7.  AF Form 664, Aircraft Fuels Documentation Log, Procedures.  All pilots will complete the AF Form 664 after receiving fuel at any off -base, including squadron deployments, and 
+during any air -air refueling .  Pilots will provide their aircraft’s complete tail number, 
+including year, to the tanker , if requested .  Pilots will enter the tanker call sign and total fuel 
+offload in the AFTO 781H, and AF Form 664 as appropriate .  Copies of AF Form 664 are 
+kept in maintenance debrief and in the aircraft forms (AFTO 781). 
+ 
+3.10.  Radar Warning Receiver (RWR) Checks.  
+ 
+3.10.1.  MOC will notify AMOPs prior to setting up the RWR pits and after the equipment is 
+removed from the Airfield.  3.10.2.  AMOPs will issue appropriate airfield restrictions NOTAMs before using the area.  
+ 3.10.3.  Runway 22 primary RWR pit location is on Twy Golf .   
+SHAWAFBI11 -250   21 
+ 
+ 
+3.10.3.1.  When this area is in use, Twy Golf will be restricted to fighter aircraft only.  
+ 
+3.10.4.  Runway 04 primary RWR pit location  is on Twy Alpha adjacent to spot N-18.   
+ 
+3.10.5.  Twy  Alpha ( between Twy Bravo and Twy Charlie ) may be used, if needed, due to 
+transient aircraft operations/interference, with prior coordination.  
+ 3.10.6.  MOC or RWR pit supervisor will prior coordinate with AMOPs when a pit location is required other than a primary area.  
+ 3.11.  Engine Runs.  
+ 
+3.11.1.  F-16 maintenance engine runs up to 85% power may be conducted anywhere on the 
+ramp.  
+ 3.11.2.  F-16 maintenance engine runs  above 85% power must be anchored and conducted on 
+the north trim pad .  NOTE: This does not preclude pilots from accomplishing T.O.  
+1F-16CM-
+1 EPU procedures.  
+ 3.11.3.  Aircraft maintenance personnel conducting engine runs must contact Tower on Ground Control frequency IAW Table 1.1
+ for approval prior to commencing the engine run.   
+ 3.11.4.  All transient aircraft maintenance personnel must coordinate engine run locations with AMOPs prior to conducting engine runs outside of normal aircraft operations locations.   
+ 
+3.11.4.1.  AMOPs will advise Tower of approved transient aircraft engine run location and the call sign or tail number. 
+ 
+3.11.5.  When the airfield is closed, MOC is the approving agency for engine runs.    
+22  SHAWAFBI11 -250 
+ 
+ 
+Chapter 4  
+ 
+FLIGHT OPERATIONS  
+ 
+4.1.  General.  
+ 
+4.1.1.  In-flight Command Authority .  The designated flight lead has responsibility for overall 
+planning and execution of the mission regardless of rank or position of other flight members .  
+Included in this responsibility is command authority over the mission conduct.  Another flight 
+member cannot assume authority unless delegated by the flight lead or designated on the flight orders for purposes of flight instruction or flight evaluation.  Instructor Pilots and 
+Standardization/Eval uation Flight Examiners are flying supervisors and have full authority to 
+prevent any unsafe act or operation IAW governing AFIs.  
+ 4.1.2.  Single -Ship Missions.  S ingle -ship sorties may be flown to any airfield approved by 
+the Operations Supervisor. 
+ 
+4.2.  Local Flying Area.   
+ 
+4.2.1.  The Shaw AFB local flying area is defined as within a 250 NM radius from the Shaw 
+AFB TACAN (SSC).  
+ 4.3.  Local Aircraft Priorities .   
+ 
+4.3.1.  Local Aircraft Priorities are as follows: 
+ 
+4.3.1.1  Alert Defense Aircraft Scramble Departures.  
+ 4.3.1.2.  National Airborne Operations Center Alert Aircraft.    4.3.1.3.  Distinguished Visitors.  
+ 4.3.1.4.  Demonstration Aircraft.  
+ 4.3.1.5.  IFR Full Stop Arrivals.  
+ 4.3.1.6.  Controlled Departures.  
+ 4.3.1.7.  IFR Departures .   
+ 4.3.1.8.  Practice Approaches  (Checkrides have priority over other practice approaches) . 
+ 4.3.1.9.  VFR arrivals.  
+ 4.3.1.10.  VFR Departures.  
+ 
+SHAWAFBI11 -250   23 
+ 
+4.3.2.  The SOF will coordinate with the Tower WS for deviations from these priorities.  
+ 
+4.4.  Traffic Patterns .  (See Attachment 3 ) 
+ 
+4.4.1.  During dual runway operations, l eft turns are s tandard for Runway 04L/22L and right 
+turns for Runway 04R/22R.  
+4.4.1.1.  During single runway operations, expect breaks to the west. Controllers will be directive and issue any non -standard procedures at initial check -in.  
+ 4.4.2.  Helicopter: 800 feet MSL.  4.4.3.  Rectangular (Conventional) /Low -Closed: 1,300 feet MSL  
+ 
+4.4.3.1.  Low -closed patterns will be flown to a full stop .  EXCEPTION: Chase aircraft 
+may perform a low approach and return to the RADAR pattern or accomplish an 
+additional low-closed pattern to a full stop.   
+ 4.4.3.2.  Breakouts are to the RADAR pattern if the overhead pattern is closed.   
+ 4.4.4.  Overhead /Rectangular /Closed: 2,000 feet MSL .   
+  4.4.5.  Radar : 3,000 feet MSL.  (See Attachment 7
+) 
+ 4.4.6.  The weather criteria for VFR traffic patterns is 500 feet above the pattern altitude and 3 SM visibility .  (See 20 FW SOF QRC
+ for specific pattern statu ses) 
+ 4.4.7.  The Closed traffic pattern begins at the departure end of the runway unless Tower 
+receives and approves a request to commence closed traffic earlier.  
+ 4.5.  Departure Procedures .   
+ 
+4.5.1.  Aircraft shall not penetrate Poinsett Range (R -6002) without ATC approval.  An ATC -
+assigned clearance that penetrates the confines of the restrictive area qualifies as approval.  
+ 4.5.2.  To protect the overhead traffic pattern, all departures will cross the departure end at or below 1,000 feet MSL.    4.5.3.  Initial departure /standard climbout  instructions for all aircraft ( unless otherwise 
+specified by ATC or when receiving IFR clearance) : Cross departure end at or below 1,000 
+feet MSL , then climb and maintain 3,000 feet MSL ; fly runway heading.  
+ 
+4.5.4.  Pilots requesting a VFR Class C departure shall provide their initial heading and desired altitude to Ground Control.  Avoid Sumer Municipal Airport by 1,500 feet and 2 NM.  4.5.5.  Stacks Departure (Runway 22 ). 
+24  SHAWAFBI11 -250 
+ 
+ 
+ 
+4.5.5.1.  The Stacks Departure is a VFR depart ure with an IFR pick up between the 
+hours of sunrise and sunset. 
+ 4.5.5.2.  The reported weather must be at or better than 2,500 feet ceiling and 3 SM visibility.  
+ 4.5.5.3.  Pilots requesting the Stacks Departure will advise Ground Control and will receive approval or disapproval with departure clearance.  4.5.5.4.  If approved, pilots will cross the departure end at or below 1,000 feet MSL and climb VFR to 9,500 feet MSL until 9 DME, where they will pick up their IFR flight plan, unless otherwise directed by ATC . 
+ 4.5.5.5.  Pilots are responsible for remaining clear of R -6002 and remaining west of the 
+SSC 215 radial. 
+ 
+4.5.6.  Sumter Departure Runway 22.   
+ 
+4.5.6.1.  The Sumter Departure is a VFR departure between the hours of sunrise and sunset.  4.5.6.2.  The reported weather must be at or better than 2,500 feet ceiling and 3 SM visibility.  
+ 4.5.6.3.  Pilots requesting a Sumter Departure will advise Ground Control and will receive approval or disapproval with departure clearance.    4.5.6.4.  Sumter Departures will primarily depart on Runway 22L.  4.5.6.5.  Pilots will cross the departure end above 400 feet MSL and at or below 1,000 feet MSL .  Turn left to  heading 070 within 1 NM, then climb to 3,000 feet MSL.   
+ 4.5.6.6.  Pilots will maintain VFR and  are responsible for remaining clear of R -6002 and 
+other aircraft until north of the SSC 120 radial, where they will resume their IFR clearance.  
+ 
+4.5.7.  Requests for intersection departures will be handled IAW FAAO JO 7110.65
+. 
+ 4.5.8.  Minimum- Risk Departure (MRD ).  (See Attachment 8
+) 
+ 
+4.5.8.1.  MRDs to Deuce are not authorized with aircraft descending out of high key.  4.5.8.2.  MRDs to Deuce/Pitts are not authorized when a n MRA is inbound to the same 
+fix.  The MRD may be authorized once the MRA has passed Deuce/Pitts inbound or 
+proper altitude separation has been reached .   
+SHAWAFBI11 -250   25 
+ 
+ 
+4.6.  Arrival Procedures .   
+ 
+4.6.1.  General Information.  
+4.6.1.1.  IFR flight plans are automatically canceled for locally assigned aircraft when 
+the pilot reports the airport or VFR entry point in sight and communications are transferred to Tower.  
+ 4.6.1.2.  For aircraft in formation, after completing first approach, each aircraft in the formation will be controlled as single aircraft, unless the flight lead coordinates otherwise.  
+ 
+4.6.2.  VFR Reporting Points/Pattern Entry Procedures.  (See Attachment 3
+) 
+ 
+4.6.2.1.  Pilots requesting entry to Initial via PONDS or STACKS will advise on initial contact with Shaw Approach .  Aircraft will cross PONDS/STACKS at 2,500 feet MSL .   
+ 4.6.2.2.  Aircraft will cross DINKS, PITTS, DEU CE and TEXAS at 2,000 feet MSL. 
+ 
+4.6.2.3.  Aircraft requesting vectors direct to initial or VFR reporting points other than PONDS or STACKS should expect a delay for sequencing coordination with Tower. 
+ 
+4.6.3.  Initial.   
+ 
+4.6.3.1.  3-5 DME, 2,000 feet MSL. NOTE:  Pilots entering from PONDS or STACKS will fly Initial at 2,500 feet MSL and begin a descent at 4 DME to arrive at 2,000 feet MSL prior to the break. 
+ 
+4.6.4.  VFR Straight -in.  VFR Straight -ins will cross 8 DME inbound at 1,500 feet MSL. 
+ 
+4.6.5.  VFR Tactical Initial.   
+ 
+4.6.5.1.  Must be approved by the Tower.    4.6.4.2.  Flight Lead will fly 350 KIAS down the centerline while wingmen will fly 1 
+NM line abreast lateral spacing on the side opposite the direction of break.   
+ 4.6.5.3.  Second element of a four -ship formation will maintain 2 NM spacing from the 
+lead element.  
+ 
+4.6.6.  Minimum- Risk Arrival (MRA) .  (See Attachment 8
+)  
+ 
+4.6.6.1.  MRA  from Deuce is not authorized with an aircraft descending out of high- key.   
+ 4.6.6.2.  Once the SFO aircraft is below the flight path of the MRA and proper altitude 
+26  SHAWAFBI11 -250 
+ 
+ 
+separation has been reached, then the MRA may be authorized. 
+ 
+4.6.7.  SFOs.  
+ 
+4.6.7.1.  SFOs may be flown between the hours of sunrise and sunset.    4.6.7.2.  Weather minimum: a ceiling of at least 500  feet above the entry altitude and 
+visibility at least 3 miles.  
+ 4.6.7.3.  Tower may discontinue an SFO maneuver at any time for safety.  
+ 
+4.6.8.  Overhead SFOs. 
+ 4.6.8.1.  Pilots should request the SFO pattern with Shaw Approach on initial contact or 
+as soon as practical to facilitate coordination .  
+ 4.6.8.2.  Remain below 9,500’ and within 3 NM of SSC in the SFO pattern.    4.6.8.3.  Climb to high key on the west side of the runway.   
+ 
+4.6.8.4.  Holding at high key is to the e ast.  Aircraft will maintain 250 -300 KCAS. 
+ 
+4.6.8.5.  Descent from High Key is on the east side of the runway. 
+ 
+4.6.8.6.  SFO airspace is not special use airspace and VFR traffic may transit.    4.6.8.7.  Traffic permitting, RAPCON shall vector aircraft to avoid the SFO pattern within a 3 NM radius of Shaw AFB . 
+ 4.6.8.8.  Tower will advise RAPCON when the SFO pattern is no longer in use. 
+ 
+4.6.8.9.  A m aximum of 12 airborne aircraft are allowed under Tower control during 
+Overhead SFO operat ions, to include SFO aircraft. 
+ 
+4.6.8.10.  Alternate entry low key SFOs are authorized as follows: 
+ 
+4.6.8.10.1  Aircraft will intercept low key between the SSC060R clockwise to the SSC200R for either runway.  4.6.8.10.2.  Aircraft requesting low key following an approach will make their climb to the east and intercept the approach at the appropriate entry points.  4.6.8.10.3.  Alternate entry low key SFO approaches are not authorized when aircraft are descending out of high key.  4.6.8.10.4.  Holding at low key is to the east.   
+SHAWAFBI11 -250   27 
+ 
+ 
+4.6.8.10.5.  Do not penetrate Poinsett Range.    4.6.8.10.6.  If landing clearance is not received at low key, enter holding.  
+4.6.8.11.  Overhead cutoff point for same-r unway operations .   
+ 
+4.6.8.11.1.  No aircraft will be cleared for takeoff if an aircraft has reported High Key, unless the aircraft at High Key is issued holding instructions for operations to the same runway .   
+ 4.6.8.11.2.  Aircraft conducting an overhead or rectangular approach shall not turn base with aircr aft at low key to the same runway. 
+ 4.6.9.  Straight- in SFOs .  In addition to Overhead SFO criteria, the following applies:  
+ 
+4.6.9.1.  Entry point for Straight-in SFO is Stacks (Runway 04) or Ponds (Runway 22), normally at 10,000 feet MSL. 
+ 
+4.6.9.2.  Maximum number of airborne aircraft allowed under Tower control during Straight-in SFO operations shall be no more than 4 aircraft, to include SFO aircraft.  
+ 
+4.6.9.3.  Straight- in SFO cutoff point.   
+ 
+4.6.9.3.1.  Tower will ensure the Straight -in SFO has a clear path from 5 NM to 
+the landing threshold of both runaways.    4.6.9.3.2.  No departures will be authorized on the same runway after Straight-in SFO aircraft has reached 8 NM final.  
+ 4.6.9.3.3.  A minimum of 6,000 feet spacing will be maintained betwe en 
+individual aircraft within the flight (except when performing chase) .   
+ 4.6.9.3.4.  A minimum of 5 NM spacing is required between flights (i.e.  5 miles spacing between two flights of four F-16s and 6,000 feet between the four aircraft of each flight i s required). 
+ 4.6.9.3.5.  Simultaneous arrivals will not be conducted to parallel runways when an aircraft is conducting a Straight -In SFO.  
+ 
+4.6.10.  Radar Trail Recovery  (RTR)  Procedures. 
+ 
+4.6.10.1.  Must be requested and approved by ATC prior to beginning the approach and spacing maneuver.    4.6.10.2.  Non -standard formation spacing must be approved by ATC. 
+28  SHAWAFBI11 -250 
+ 
+ 
+ 
+4.6.10.3.  Maximum of 4 aircraft with 1.5 -2.0 NM spacing between flight members (2.0 -
+3.0 NM for wet/ice/snow). 
+ 4.6.10.4.  Last wingman will squawk subset (XX00). 
+ 4.6.10.5.  Flight Leads will:  
+ 
+4.6.10.5.1.  Establish trail formation in VMC, if able, no later than 15 DME.   
+ 
+4.6.10.5.2.  Call all airspeed and configuration changes  on Aux. 
+ 4.6.10.5.3.  Slow to 250 knots by 15 DME or initiating a turn to base.  
+ 4.6.10.5.4.  Configure and slow to 180 knots at 10 DME. 
+ 
+4.6.10.5.5.  Slow to approach speed at the Final Approach Fix (FAF)/Glideslope intercept . 
+ 
+4.6.10.6.  To ensure appropriate departure separation, multiple practice radar in- trail 
+approaches  that do not terminate with a full- stop landing must only be conducted in 
+VMC .   
+ 
+4.6.11.  Split- to-Land Maneuver.   
+ 
+4.6.11.1.  Allows the flight to conduct an approach and then split to land individually and simultaneously on both parallel runways.  4.6.11.2.  The reported weather must be VMC.  
+ 4.7.  Standard Climb- Out.  IAW Paragraph 4.5.3.  
+ 4.8.  Breakout  Procedures .  Aircraft broken out within Tower’s airspace will be directed to the 
+appropriate VFR reporting point, unless otherwise coordinated.  
+4.8.1.  Pilots should expect to climb/descend to 2,000 feet MSL and report TEXAS for Rwy 04L, DINKS for Rwy 22R, or DEUCE for Rwy 04R/22L.  
+ 4.9.  Standard Go -Around Procedures /Missed Approach .   
+ 
+4.9.1.  Aircraft instructed to “Go Around” will offset to the east side of the runway  (not to 
+overfly parallel runways)  and avoid overflying aircraft, vehicles, or personnel on the runway. 
+ 
+4.9.2.  Missed A pproach will be IAW published procedures.  Pilots will fly 250 KIAS.  If 
+executing RTR procedures, each aircraft will request a separate clearance .  EXCEPTION: 
+Pilots should request to maintain flight integrity when executing divert procedures.  
+SHAWAFBI11 -250   29 
+ 
+ 
+4.10.  Opposite Direction Traffic.   
+ 
+4.10.1.  Opposite direction departures or arrivals when the Shaw AFB and Columbia Airport 
+Surveillance Radars (ASR) are inoperative may be approved on a case- by-case basis .   
+ 
+4.10.2.  The following opposite direction minimums apply: 
+ 
+4.10.2.1.  The arriving aircraft must have landed prior to the opposite direction arrival reaching 10 miles (IFR/VFR).  
+ 4.10.2.2.  The departure must be airborne and turned at least 45 degrees away from the runway heading before the opposite direction arrival reaches 10 miles (IFR/VFR). 
+ 4.11.  Reduced Same Runway Separation (RSRS) Standards .  RSRS procedures will be 
+followed IAW AFMAN 11 -202V3
+.   
+ 
+4.12.  Wake Turbulence Procedures .   
+ 
+4.12.1.  To highlight to returning aircraft that conditions are present for increased wake 
+turbulence effects, ATIS will state, "Wake Turbulence Procedures are in effect."  Pilot actions 
+when wake turbulence procedures are in effect are:  
+ 
+4.12.1.1.  SOFs will be responsible for ensuring ATIS is accurate.  When winds are forecasted less than 5 knots (TAF/MEF), or prevailing winds are consistently less than 5 knots, the SOF will notify the Tower WS to update the ATIS.  
+ 4.12.1.2.  Wingmen will pass any wake turbulence notices  in their ATIS summary.  
+  4.12.1.3.  If flying the overhead pattern, pilots will increase the ir break spacing from 5 
+seconds to 8 seconds, and land no closer than 6,000 feet behind the preceding aircraft.  4.12.1.4.  Pilots executing multiple patterns should adjust their pattern accordingly to ensure they land no closer than 6,000 feet behind preceding aircraft.  4.12.1.5.  Exe cute a go -around when an unsafe situation develops from a preceding 
+aircraft's wake turbulence.  
+ 4.13.  Fuel Requirements.  
+ 
+4.13.1.  When Shaw AFB is operating dual runways, pilots will arrive at initial or the final approach fix (FAF) with normal recovery fuel.  
+ 4.13.2.  When Shaw AFB is operating single -runway -only, pilots will arrive at initial or the 
+FAF with divert fuel to nearest suitable recovery airfield designated by the SOF.  
+ 
+30  SHAWAFBI11 -250 
+ 
+ 
+4.13.3.  When an IFR alternate is required, pilots will plan recovery fuel to fly an approach 
+from the initial approach fix (IAF) at Shaw AFB, execute a missed approach, divert, and have 1,200 pounds of fuel remaining at the alternate’s FAF or initial. 
+ 
+4.14.  Night Operations. 
+ 
+4.14.1.  Night Vision Device (NVD) and No -light airfield operations are not authorized.    
+ 
+4.14.2.  F-16 console and instrument panel lights will be functional for night sorties .  
+Individual bulbs may be burned out provided that cockpit light levels, including cockpit flood lighting, adequately illuminate all necessary instruments/switches.  
+ 4.14.3.  The covert lighting authorized areas for 20 FW pilots are: W -177/161, BULLDOG 
+ATCAA, and GAMECOCK D ATCAA.  20 OSS/OSO will inform Atlanta/Jacksonville Centers during night weeks of light -out operations.  There must be a Jacksonville Center TFR 
+NOTAM published indicating lights -out operation in BULLDOG/GAMECOCK D ATCAA 
+for the specific times flights will be operating lights out in the ATCAA.  
+ 4.15.  Off -Station SFOs .  20 FW pilots are authorized to conduct off- station SFO training at 
+airfields with a current LOA .  Airspace Management  and 20 OG/OGV have  LOAs established 
+with the following airfields: 
+ 4.15.1.  McEntire JNGB .  (See 169
+th FW Instruction 13-250 and 20 FW IFG ) 
+ 
+4.15.2.  Charleston (CHS) AFB .  (See F-16 Simulated Flameout Operations (SFO) at 
+Charleston Int’l/AFB LOA  and 20 FW IFG ) 
+ 
+4.15.3.  Myrtle Beach International Airport (MYR) .  (See F-16 Simulated Flameout 
+Operations (SFO) at Myrtle Beach International Airport (MYR) LOA  and 20 FW IFG ) 
+ 
+4.16.  SOF.  
+ 
+4.16.1.  The SOF will: 
+ 
+4.16.1.1.  Be in the Tower no later than 1 hour prior to first takeoff.  SOF duty day starts 1.5 hours prior to the first takeoff.    4.16.1.2.  Not communicate directly with a controller working in position without first coordinating with the Tower WS on duty, unless safety of flight is involved.  4.16.1.3.  Coordinate diverts and weather recalls/holds with both the Tower and RAPCON WSs.  
+ 4.16.1.4.  When available and time allows, inform the Tower WS of the following infor mation on emergency aircraft:  
+ 
+SHAWAFBI11 -250   31 
+ 
+4.16.1.4.1.  Nature of emergency.  
+ 
+4.16.1.4.2.  Call sign and tail number.  
+ 4.16.1.4.3.  Pilot’s desires.  
+ 4.16.1.4.4.  Special requirements (e.g .  stopping on the runway, barrier engagement, 
+activated hydrazine, etc.).  
+ 4.16.1.4.5.  If an airfield/runway check is required after arrival, relay to AMOPs.  
+ 
+4.16.1.5.  Notify the Tower WS when expecting visitors in the Tower.  The Tower WS will approve or disapprove these visits depending on traffic workload.  4.16.1.6.  Forward Pilot Reports (PIREPs) to the Tower WS.  4.16.1.7.  Advise the Tower WS when notified by aircrew that a change to airfield lighting is necessary.  
+ 4.16.1.8.  The SOF may respond to radio calls directed to the SOF on the Single Frequency Approach (SFA) after prior coordination with the Tower WS.  If responding 
+to radio calls, the SOF must not perform ATC functions or transmit ATC instructions or clearances to any aircraft .  Commandeering an ATC frequency assumes responsibility 
+for separation of aircraft.  
+ 4.16.1.9.  Inform the SOF program monitor (20 OG/OGV) when adverse situations occur between the SOF, Tower, AMOPs, or RAPCON personnel. 
+ 4.16.2.  The SOF program monitor (20 OG/OGV) shall:  
+4.16.2.1.  Contact the AOF/CC when a problem arises between the SOF and AOF personnel.  4.16.2.2.  Provide AOF personnel an opportunity to brief airfield operations topics relevant to the SOF program at SOF meetings.  
+ 4.16.3.  The WS will:  
+ 
+4.16.3.1.  Log and track all outages associated with the SOF’s equipment.  4.16.3.2.  During periods of SOF equipment outages, allow the SOF access to the Tower’s GRC -171, GRC- 29 or landlines if it will not interfere with ATC duties.  
+ 4.16.3.3.  Advise the SOF of any known aircraft emergencies and the discrete frequency assigned, if other than 363.8/134.875.  
+32  SHAWAFBI11 -250 
+ 
+ 
+4.16.3.4.  Inform the SOF of any airfield conditions that might impact flying operations.  
+ 
+4.16.4.  AOF personnel will: provide SOF facility orientations.  
+SHAWAFBI11 -250   33 
+ 
+Chapter 5  
+ 
+SPECIAL USE AIRSPACE  OPERATIONS  
+ 
+5.1.  Warning Areas. 
+ 
+5.1.1.  Delegated Airspace.  ( See Special Procedures for 20th Fighter Wing Operations in the 
+National Airspac e System  LOA  and Attachment 6 )   
+ 
+5.1.2.  Frequencies .  The discrete frequency for W -161 is UHF 279.725 and the discrete 
+frequency for W -177 is UHF 258.4. 
+ 
+5.1.3.  Restrictions.  
+ 
+5.1.3.1.  In the event frequency 127.725 is out of service, W -161A/B South is 
+unavailable .  If aircraft choose to operate VFR over the water then the request will be 
+made through Jacksonville Center (W-177A/B and W- 161A/B North still available).  
+ 5.1.3.2.  If one or both of the emergency frequencies (121.5/243.0) are out of service, RAPCON will coordinate with MYR Approach to monitor these frequencies and to provide relay capabilities in the event of these temporary outages.    
+ 
+5.1.3.3.  ECM, Chaff (below FL 400), and Flares are approved. 
+ 
+5.1.3.3.1.  Upon initial contact at night , pilots will notify DOUBLESHOT of intent 
+to use flares and flare color .  DOUBLESHOT will assume that 20 FW aircraft are 
+carrying 30 orange flares per aircraft unless reported otherwise.   
+ 
+5.1.3.4.  Supersonic flight is approved above 10,000 feet and outside 15 NM from land.   
+ 
+5.1.4.  Air Operations. 
+ 
+5.1.4.1.  The term “Cleared All Altitudes (appropriate Warning Area)” means pilots are 
+cleared from surface to FL 500 in W -177A/161A and from surface to FL 300 in W -
+177B/161B.  
+5.1.4.1.1.  Pilots will maintain above 6,000 feet MSL within 19 NM of MYR.   
+ 5.1.4.2.  W- 161A FL500- FL620 can be requested with DOUBLESHOT and approved by 
+Jacksonville Center ( ZJX). 
+ 5.1.4.3.  Formations with the potential to perform a flight split in the  airspace will file 
+the applicable return flight plan ( SSC-177B/161B) .  If a flight split was not anticipated, 
+contact DOUBLESHOT for coordination 5 minutes prior to departing the airspace. 
+ 
+5.1.5.  Air Refueling Operations.  
+34  SHAWAFBI11 -250 
+ 
+ 
+ 
+5.1.5.1.  20 OSS/OSOS will de -conflict AR -601 and RACCOON refueling operations 
+from other W -161A/B and W- 177A/B activities.  
+ 5.1.5.2.  Air refueling track RACCOON ANCHOR requires W -161A/B to be protected  
+at the assigned altitudes .   
+ 5.1.5.3.  Pilots shall advise DOUBLESHOT of their intentions following air refueling.  
+ 
+5.1.6.  BULIT ATCAA.  
+ 
+5.1.6.1.  The BULIT ATCAA must only be utilized in conjunction with W161 and W177 during Shaw AFB RAPCON operational hours. 
+ 5.1.6.2.  Operating altitude is from FL 180 - 300. 
+ 
+5.1.6.2.1.  The BULIT ATCAA must not be utilized at or below FL230 when 
+ROBROY or  GAMECOCK D MOAs are in use.  
+ 5.1.7.  TAILHOOK A ATCAA.   
+ 
+5.1.7.1.  TAILHOOK A must be scheduled by the 20 OSS/OSOS through the FACSFAC 
+JAX scheduling office (904-542-2113) at least 24 hours in advance.  
+ 5.1.7.2.  Operating altitude is from Surface - FL 240. 
+ 
+5.1.6.  NAS Weather Deviations/Alternate Routes .  ZJX has priority to restrict Warning Area 
+altitudes when necessary for weather and traffic conditions.  If ZJX initiates an airspace callback while flights are working in the Warning Areas:  
+ 
+5.1.6.1.  DOUBLESHOT will:  
+ 
+5.1.6.1.1.  Immediately i nform each flight established in the Warning Areas of the 
+new airspace limits .  If flights are established outside these limits, be directive then 
+descriptive (i.e.  “Valor 11 flight, DOUBLESHOT, work north immediately .  
+Jacksonville Center is recalling W -161A/B south, all altitudes for the next 30 
+minutes”) .  DOUBLESHOT will receive a verbal readback of all new airspace 
+restrictions as acknowledgement (i.e .  “DOUBLESHOT, Valor 11 copies, W -
+161A/B south now off limits, all altitudes for the next 30 minutes”)  from each 
+formation established in the working airspace.    5.1.6.1.2.  Pass information about future callbacks as soon as possible (i.e .  “Valor  
+11 flight, DOUBLESHOT, Jacksonville Center will recall W -161A/B south, all 
+altitudes in 10 minutes at 1400Z”). 
+ 
+5.2.  Poinsett Range (R -6002) Procedures.  ( See Attachment 5
+) 
+SHAWAFBI11 -250   35 
+ 
+ 
+5.2.1.  Participating Aircraft When R -6002 is A ctive .  (See Participating Aircraft with R -6002 
+Operations LOA )   
+ 
+5.3.  Military Operations Area (MOA) Procedures.  
+ 
+5.3.1.  When the controlling agency restricts the scheduled airspace (time, altitudes, or area), 
+the flight lead will record the details on the Special Use Airspace/MTR Denial Report and return it to 20 OSS/OSOA, Airspace Management.  5.3.2.  Pilots may conduct Instrument Meteorological Conditions (IMC) tactical operations/training in Special Use Airspace (MOAs, ATCAAs, warning areas, and restricted airspace) with GCI/AWACS control IAW AFI 11 -214, Air Operations Rules and Procedures
+.  
+When cleared to  operate in a MOA, pilots need to maintain IFR clearance or have 
+GCI/AWACS control to penetrate weather once inside the confines of airspace below FL 180.  
+ 
+5.3.3.  MOA Altimeter Adjustment.  
+ 
+5.3.3.1.  When the local altimeter passed at check -in is 29.92 or  above, pilots may use 
+the full published operating altitudes within each MOA/ATCAA . 
+ 5.3.3.2.  When the local altimeter passed at check -in is between 29.42 - 29.91, pilots will 
+not use the top 500 feet of each MOA /ATCAA. 
+ 5.3.3.3.  When the local altimeter passed at check -in is between 28.92 - 29.41, pilots will 
+not use the top 1,000 feet of each MOA /ATCAA. 
+ 
+5.3.4.  BULLDOG  A/B /C/E MOA/ATCAA Procedures. 
+ 
+5.3.4.1.  Continuous radar service is not provided by ATC for flights inside the MOA .  
+Upon acknowledgement of the block altitude clearance and entry into the MOA/ATCAA, 
+radar services are terminated .  ATC normally monitors the published area discrete 
+frequency .  Coordinate all other frequency requests with ATC prior to changing. 
+ 5.3.4.2.  Within t he area, flight leads will squawk the ATC -assigned Mode 3 transponder 
+code, and all other flight members will squawk standby unless required by ATC or flight lead.  If required, flight members will squawk the first two digits of the ATC -assigned 
+Mode 3 code plus 00 or codes 7542 -7552, in sequence , for POINSETT EW Range 
+coordination.  Use the local altimeter given by ATC for BULLDOG  operations .  ECM, 
+chaff, and flare (above 5,000 feet) are approved.  Supersonic flight is not approved.  The same procedures apply if entering BULLDOG from an LLTR.  
+ 
+5.3.5.  GAMECOCK B/C/D/ROBROY Procedures .  (See 
+Special Procedures for 20th Fighter 
+Wing Operations in the National Airspace System  LOA ) 
+ 
+5.3.5.1.  Continuous radar service is not provided by ATC for operations inside the MOA .  
+36  SHAWAFBI11 -250 
+ 
+ 
+Upon acknowledgement of the block altitude clearance and entry into the MOA/ATCAA, 
+radar services are terminated .  Myrtle Beach Approach normally monitors the published 
+area discrete frequency .  Coordinate all other frequency requests with ATC prior to 
+changing.  
+ 5.3.5.2.  Within the area, flight leads will squawk the ATC -assigned  transponder code, 
+and all other flight members will squawk standby unless required by ATC or flight lead.  If required, flight members will squawk the first two digits of the ATC -assigned squawk 
+plus 00.  Use the local altimeter setting given by ATC .  ECM, chaff, and flare (above 
+5,000 feet) are approved.  Supersonic flight is not approved.    5.3.5.3.  Simu ltaneous use of GAMECOCK D and ROBROY airspace is prohibited.  
+GAMECOCK B is scheduled only for exercises and inspections. 
+ 5.3.6.  Poinsett MOA and Poinsett Transition Area (PTA) Procedures.  ( See Attachment 5
+) 
+ 5.3.7.  GAMECOCK I  MOA Procedures .  (See 
+Special Procedures for 20th Fighter Wing 
+Operations in the National Airspace System  LOA ) 
+ 
+5.3.7.1.  GAMECOCK I  is considered active when the first scheduled aircraft is cleared 
+into the MOA.  Pilots may coordinate with RAPCON for real -time use once airborne . 
+ 5.3.7.2.  GAMECOCK I  is considered inactive when scheduled aircraft have exited  the 
+MOA or the pilot advises that the MOA is inactive.   Pilots will us e the ATC assigned 
+frequency as the MOA working frequency.  Flight leads will squawk  the last assigned 
+ATC beacon code while working within GAMECOCK I , and w ingman will squawk 
+standby unless required  by ATC or flight lead.  
+ 5.4.  Low- Level Procedures .  Low-Level Procedures are IAW AFMAN 11 -2F-16V3
+ with the 
+following highlights: 
+ 
+5.4.1.  Conduct threat reactions outside a 5 NM radius from any ground obstacles with an elevation at or above the minimum flight AGL altitude.  
+ 5.4.3.  Flight leads will reference the Avian Hazard Advisory System (AHAS) for mission planning .  Pilots will receive an AHAS update at step and apply the restrictions located in the 
+20 FW IFG
+. 
+ 5.4.4.  Flight leads will reference FLIP AP1B and 20 FW Route Briefing Guide on the 20 FW SharePoint for restrictions prior to flying VR and IR low- level routes.  
+ 
+  
+SHAWAFBI11 -250   37 
+ 
+Chapter 6  
+ 
+SPECIAL PROCEDURES  
+ 
+6.1.  Aerobatic Demonstration Flight Procedures.  
+ 
+6.1.1.  The aerobatic demonstration airspace is  located within a 3 NM radius of Shaw AFB 
+from surface to 15,000 feet MSL. 
+ 6.1.1.  All aerobatic demonstration flights will be IAW the approved FAA Form 779- 1 
+(Certificate of Waiver) on file with  20 OSS/OSOA.  
+ 6.1.2.  All demonstration flights will be scheduled through 20 OSS/OSOS, who will issue a demo memorandum to applicable wing agencies .   
+ 6.1.3.  20 OSS/OSOA will act as the 20 OG POC for coordinating demonstration waivers with the FAA.  
+ 6.1.4.  AMOPs will issue appropriate NOTAMs.  
+ 6.1.5.  The centerline for all practice maneuvers performed under the waiver is RWY 04R/22L.    6.1.6.  Tower will ensure the Controlled Movement Area (CMA) is clear of unauthorized aircraft, vehicles and personnel during the demonstration.    6.1.7.  Aircraft are permitted to taxi on Twy  Alpha IAW uncontrolled movement area 
+operations .  Ground control will advise aircraft that a demonstration is in progress and aircraft 
+will monitor ground control frequency until the demonstration is complete.   
+ 
+6.2.  Explosive Laden (Hot Cargo)/Armed Aircraft. 
+ 
+6.2.1.  Explosive laden cargo aircraft will be provided priority support.   
+   6.2.3.  20 MSG/CC or designated representative shall monitor the overall ope ration .   
+ 6.2.4.  Safety will provide technical guidance, as necessary, to ensure safe handling of all materials.  
+ 6.2.5.  Armed transient fighter aircraft operations must be prior coordinated with AMOPs and Weapons Safety .   
+ 6.2.6.  Armed fighters on an IFR divert will be held in a designated de -arm area until Weapons 
+Load personnel can respond and safe the aircraft .   
+ 6.2.7.  Armed transient fighters will park on the Hot Cargo Pad ( HCP ), unless otherwise 
+38  SHAWAFBI11 -250 
+ 
+ 
+directed.  
+ 
+6.2.8.  Aircraft parking will be IAW AFMAN 91 -201_ACCSUP .   
+ 6.2.9.  Any deviations to the parking plan require prior coordination with Weapons Saf ety and 
+20 WG/CC approval.    6.2.10.  AMOPs will pass aircraft information, to include type and quantity of material and any other special handling requests to:  TA, Fire Department, Security Forces, Air Terminal, MOC, Weapons Safety, Command Post, Vehicl e Ops, Tower and RAPCON.  
+ 6.3.  F- 16 Quick Climb Procedures.  
+ 
+6.3.1.  20 FW F -16 pilots will only execute a quick climb when approved by ATC in the form 
+of “CALLSIGN, Quick Climb Approved up to (cleared altitude).”  
+ 6.3.2.  Quick climbs use a higher rate of climb exceeding 4,500 feet per minute.  6.3.3.  Aircraft desiring a quick climb on departure should request the maneuver on initial contact with ground control.    6.3.4.  The pilot will maintain below 1,000 feet MSL until the departure end of the runwa y 
+and then climb to the assigned altitude.  6.3.5.  Tower will obtain a release and traffic information from RAPCON.  
+ 6.3.6.  Quick climb aircraft climbing above 10,000 feet will be assigned a Jacksonville Center frequency prior to departure. 
+ 
+6.3.7.  Quic k climb profiles will be standard for Functional Check Flight (FCF) profiles. 
+ 6.4.  Aeromedical Evacuation (MEDEVAC) Aircraft.  
+ 
+6.4.1.  AMOPs is the focal point for all inbound MEDEVAC aircraft.    6.4.2.  ATC agencies will notify AMOPs of inbound aircraft and servicing requests.    6.4.3.  AMOPs will relay inbound times and patient load messages to the Fire Department and MDG personnel.  6.4.4.  Either 20 MDG, 20 SFS, 20 CP, or 20 CES/FD will contact AMOPs when an emergency MEDEVAC is required and/or has been requested.    6.4.5.  AMOPs will coordinate parking with TA and notify Tower, Fire Department, Security Forces and Command Post of inbound MEDEVAC Aircraft, if necessary.    
+SHAWAFBI11 -250   39 
+ 
+6.4.6.  Primary MEDEVAC parking is the ramp in front of the Fire Department.   
+ 
+6.4.6.1.  Other parking areas may be required due to mission conflicts and/or availability. 
+ 
+6.5.  Unusual Maneuvers .  This section is N/A .  Shaw AFB ATC will not authorize aircraft to 
+conduct any type of unusual maneuver without direct approval from the 20 OG/CC or designated representative.  
+ 6.6.  Weather Recall/Divert .   
+ 
+6.6.1.  Expect a 20 FW weather recall/divert when adverse conditions, such as weather or facility outages, are experienced or forecasted at Shaw AFB .   
+ 6.6.2.  The SOF will determine proper actions for 20 FW aircraft and coordinate with the 20 OG/CC.  
+ 6.6.3.  In preparation for a recall/divert decision, the SOF will coordinate with base weather agencies to determine conditions at Shaw AFB and alternate airfields.  
+ 6.6.4.  Once issuing a divert/recall, the SOF will coordinate with the Tower WS, RAPCON, 
+Command Post and divert destination, as applicable.    6.6.5.  Workload permitting, Tower or RAPCON may be requested to provide assistance in relaying critical information to assigned 20 FW aircraft outside their airspace by coordinating the request for relay through the ATC facility having control jurisdiction of the aircraft.  SOFs may also relay information through the 20 OSS War Room.  
+  
+40  SHAWAFBI11 -250 
+ 
+ 
+Chapter 7  
+ 
+EMERGENCY PROCEDURES  
+ 
+7.1.  In -Flight Emergency (IFE).  
+ 
+7.1.1.  Runway 04L/22R will be the primary runway used for emergency landings unless 
+operational factors or RCR/RSC dictate otherwise .  When the emergency aircraft is 
+approaching to land, Tower will ensure the landing runway is clear and give traffic priority to the emergency aircraft.  
+ 
+7.1.2.  Pilots experiencing an IFE will advise ATC with intentions and expect frequency change to Channel 19 (363.8/134.875) as soon as practical.     
+7.1.3.  The SOF and Command Post will monitor  Channel 19.   
+ 7.1.4.  The Tower will: 
+ 
+7.1.4.1.  Request Channel 19 from RAPCON.  7.1.4.2.  Ensure the SOF is advised of each emergency as well as the discrete frequency assigned to the emergency aircraft, if different from Channel 19. 
+ 
+7.1.5.  SOF will determine if a runway check for wing -assigned aircraft is required and advise 
+the Tower WS, who will notify AMOPs.   
+ 
+7.1.6.  Conference Hotel Procedures.  When experiencing an IFE that requires technical assistance from Lockheed, request a Conference Hotel call be established from the SOF or Operations Supervisor using Command Post assistance.  (See 20 FW SOF QRC
+) 
+ 7.1.7.  Emergency Response Procedures .  Emergency Response Procedures will be IAW the 
+Shaw AFB Installation Emergency Management Plan (IEMP) 10-2  and the 
+Shaw AFB Plan 
+91-204, Mishap Response Plan.   
+ 7.2.  Primary Crash Alarm System (PCAS).   
+ 
+7.2.1.  The PCAS is activated by Tower to relay immediate information to the Fire Department, Flight Surgeon, AMOPs and Command Post (Command Post is receive only).    7.2.2.  All listed agencies will initially respond to an impending or actual emergency.  
+ 7.2.3.  The PCAS will be tested daily within 30 minutes of Tower opening .  Each agency on 
+the phone will answer and report clarity a nd initials .  Anytime an agency does not respond to 
+the initial check, or there is a suspected malfunction, Tower will: call the agency directly, and/or retest the system .   
+ 
+SHAWAFBI11 -250   41 
+ 
+7.2.4.  The PCAS shall be activated when an emergency condition exists or when de emed 
+necessary by the Tower WS, senior controller or SOF. 
+ 
+7.3.  Secondary Crash Net (SCN) .   
+ 
+7.3.1.  The SCN will be used to relay information critical to aircraft and airfield operations.  
+ 7.3.2.  The following agencies are authorized on the SCN: 
+ Table 7.1.  Authorized SCN Agencies.  
+ 
+AGENCY  OFFICE SYMBOL  
+*Command Post  20 FW/CP  
+Explosive Ord nance Disposal  20 CES/EOD  
+*Fire Department  20 CES/CEF  
+Flight Safety  20 WG/SEF  
+Flight Surgeon  20 OMRS /SGPF  
+*Maintenance Operations Center  20 MOS/MXOOM  
+*Security Forces  20 SFS/BDOC  
+Transient Alert  20 EMS/MXMTA  
+Weather  20 OSS/OSW  
+*Indicates a 24 -hour facility  
+ 7.4.  Hung  Ordnance/Rocket  Procedures.  
+ 
+7.4.1.  Pilots WILL  declare an emergency for any hung (unsecure) ordnance/rockets or hung 
+(secure) live ordnance .  NOTE : If a rocket did not fire  and is protruding from the LAU, declare 
+an emergency.  
+ 
+7.4.2.  Pilots WILL NOT  declare an emergency for hung (secure) practice/inert 
+ordnance/rockets or with live, unexpended ordnance/rockets.   
+ 
+7.4.2.1.  If a rocket did not fire but is not protruding from the LAU, continue to fire 
+remaining  rockets.  On recovery, inform ATC , SOF and OPS “Hung (secure) rocket .”  
+RTB via the local Hung Ordnance Recovery (see paragraph 7.4.3.3.1.) , coordinate with 
+Mx to de- arm in  EOR, and taxi back to chocks (if safed)  or shutdown (not safed).  
+ 7.4.2.2.  If unable to determine if ordnance/rockets are secure, pilots will declare an 
+emergency and adhere to unsecure procedures  but will not attempt to jettison any racks.   
+ 
+42  SHAWAFBI11 -250 
+ 
+ 
+7.4.3.  For recovery with hung ordnance/rockets (secure or unsecure), pilots will:  
+ 
+7.4.3.1.  Safe all switches . 
+ 
+7.4.3.2.  Advise ATC and the SOF if live or inert  and secure or unsecure.   
+ 7.4.3.3.  Avoid over-flying populated areas during the return flight.  
+7.4.3.3.1.  Local Hung Ordnance Recovery .  From R -6002, e xit Poinsett Range  to 
+the south, heading 190 until reaching  SSC 190/20 (N 33 38.7 W 080 29.0).  Turn 
+right  to heading 350 and request vectors to final for Rwy 04.  For Rwy 22, continue 
+heading 350 until reaching SSC 310/10 (N 34 04.1 W 080 38.1), then turn inbound 
+and request vectors to final .  Remain inside 14 DME to remain clear of I-20. 
+ 7.4.3.4.  Land from a visual straight-in or instrument approach.  7.4.3.5.  Upon landing, all aircraft with hung (secure) live munitions  or any hung 
+(unsecure) munitions/rockets will park in the HCP .  (See paragraph 7.5 for hung guns)  
+ 
+7.4.3.6.  Aircraft with hung (secure) inert munitions will be “ safed ” in EOR  (if able).  
+ 
+7.5.  External Stores/Ord nance Jettison.   
+ 
+7.5.1.  If required to jettison hung stores/ordnance, use SEL JETT procedures , if able .  
+Confirm 1 F-16CM-1- 2 jettison ops limit with SOF, time  permitting .   
+ 
+7.5.2.  For confirmed hung (unsecure) ordnance , pilots will first attempt to je ttison the rack 
+before recovering .  If unable, consider landing at the closest suitable field, avoiding populated 
+areas.   
+ 
+7.5.4. External Stores/Ordnance Jettison Areas.    
+ 
+7.5.4.1.  F or inert /training  munitions, Poinsett Range (R -6002) is the primary jettison 
+area, and W-177A is the alternate jettison area.  
+ 7.5.4.2.   H ung (unsecure)  live ordnance .  Attempt to jettison on the intended range .  
+Ensure chase aircraft is frag deconflicted  at all times .  If unable  and an emergency 
+condition exists, consider the following locations:  
+7.5.4.2.1.  Primary:  Request vectors to W177A, and ensure impact area is clear 
+using all available means .  NOTE:  W177A is only available when W177/W161 are 
+scheduled and DOUBLESHOT personnel are available to open the airspace.    7.5.4.2.2.  Secondary:  Request vectors from Myrtle  Approach, heading 150 degrees 
+from Myrtle Beach International Airport, and jettison ordnance beyond 7 NM from the field  using all available means to clear . 
+SHAWAFBI11 -250   43 
+ 
+ 
+7.5.4.2.3.  Alternate:  Poinsett R ange.   Jettison over conventional circle from level 
+flight above 1,700 feet MSL southbound so that stores impact uninhabited area.  
+ 
+7.5.4.3.  For jettison events at Poinsett Range:  
+7.5.4.3.1.  I f RAPCON is the controlling agency,  RAPCON will coordinate with 
+the Poinsett RCO.  
+ 
+7.5.4.3.2.  In IMC, RAPCON will provide vectors, if necessary, to the SSC 184 radial/10 -12 DME at 2,300 feet AGL.  RAPCON may advise when the aircraft is 
+in Poinsett Range, but will not advise the pilot when to jettison ordnance.    7.5.4.3.3.  Pilots will notify RCO/RAPCON of jettison location .  RCO/ RAPCON 
+will record location and pass to responding agencies. 
+ 7.6.  F- 16 Suspected or Actual Gun Malfunction.  
+ 
+7.6.1.  F- 16s returning with an actual or suspected jammed/unsafe gun will adhere to 
+paragraph 7.4.3. and also: 
+ 
+7.6.1.1.  Declare an emergency.  
+ 7.5.1.2.  Recover to Runway 04R/22L, unless landing distance is a factor .   
+ 7.5.1.3.  Proceed to HCP and park north, pointing at the gun berm.   
+ 
+7.6.2.  All turns will be away from the west side of  base and/or any congested areas while 
+taxiing .  Pilots will coordinate with Tower if requiring to back taxi on the runway.   
+ 
+7.6.3.  The pilot will shut down the aircraft, maintenance will “safe” the gun, and t he aircraft 
+will be towed to parking. 
+ 
+7.6.4.  If subsequent aircraft also experience hung guns, they will taxi to the HCP as described 
+above while minimizing the time spent with other aircraft in the HUD .  Fill in the HCP from 
+east to west, pointing north and using minimum allowable wingtip spacing .  NOTE: There is 
+only room for one aircraft at the gun berm.  Subsequent aircraft will park parallel to the first aircraft and WILL  NOT  attempt to point at the gun berm.   
+ 
+7.7.  Controlled Bailout Area .   
+ 
+7.7.1.  The controlled bailout area is the conventional circle on Poinsett Range.  Pilots will:  
+ 
+7.7.1.1.  Fly inbound on a 180 heading and eject 0. 5 NM prior to reaching the circle .   
+ 
+7.7.1.2.  F ly at 3,000 feet AGL at 200 KIAS and, if able, use idle power, speed brakes, 
+44  SHAWAFBI11 -250 
+ 
+ 
+gear down and nose down trim to minimize aircraft fly- out after ejection .   
+ 
+7.7.1.3.  In IMC, with no INS steer point to the conventional circle, pilots will track outbound on the SSC 194 radial and eject between 8 and 9 DME.   
+ 
+7.7.2.  Bailout aircraft location will be marked/plotted/tagged by RCO/ RAPCON, using 
+available visual/RADAR displays, and passed to responding agencies. 
+ 
+7.8.  Emergency Locator Transmitter Signals (ELTs) .   
+ 
+7.8.1.  The Command Post is the focal point for all scheduled transponder tests and will advise 
+Tower and RAPCON of scheduled ELT, Crash Position Indicator (CPI) or Transponder Code 7500, 7600, 7700 checks .   
+ 7.8.2.  When an ELT/CPI signal is received by Tower/RAPCON and there is no known or 
+suspected aircraft accident, the following procedures will apply:  
+7.8.2.1.  RAPCON and Tower will coordinate to ensure there is no actual or suspected accident.  
+ 7.8.2.2.  RAPCON will notify Jacksonville Center.  
+ 7.8.2.3.  Tower will notify the Command Post.   
+ 
+7.8.2.3.1.  Command Post will notify MOC, Aircrew Flight Equipment (AFE) and 20 CMS Egress.    7.8.2.3.2.  20 CMS Egress shop will check all pulled ejection seats for the ELT or CPI activation as soon as possible.     7.8.2.3.3.  Each individual FGS  has primary responsibility for locating activated 
+ELT or CPI on assigned aircraft .   
+ 7.8.2.3.4.  AFE will check all survival vests and spare survival kits for ELT or CPI activation.  
+ 7.8.2.3.5.  AFE will proceed to the flight line to locate the ELT or CPI .   
+ 7.8.2.3.6.  MOC will prepare a list of aircraft on which cockpit work has been performed in the period before the beacon was activated.  
+ 7.8.2.3.7.  All activations for which AFE receives notification will be lo gged and 
+the source of the beacon noted for analysis and future preventive action.  7.8.2.3.8.  AFE will notify the Command Post once they have found/deactivated the ELT or CPI.  
+SHAWAFBI11 -250   45 
+ 
+ 
+7.9.  Physiological Incidents.   
+ 
+7.9.1.  Pilots experiencing a Physiological Incident will:  
+  
+7.9.1.1.  Return to the nearest airfield with a flight surgeon, but will not overfly suitable 
+airfields if pilot incapacitation is imminent or possible.  
+ 7.9.1.2.  Notify the SOF as soon as possible.  SOF will coordinate medical response for bases without immediate medical assistance (e.g . North Aux).   
+ 7.9.1.3.  Land via a straight-in approach with a chase ship, if available.   
+ 7.9.2.  The following events require declaring a Physiological Emergency and immediate medical response by a 2 0 MDG Flight Surgeon to meet the pilot in EOR: 
+ 
+7.9.2.1.  Aircrew hypoxia, hypoxia-like symptoms, or decompression sickness.    7.9.2.2.  Loss of cabin pressure or unintended cabin altimeter above FL 180.  7.9.2.3.  Smoke/fumes in the cockpit.  7.9.12.4.  EPU activation.  
+ 7.9.2.5.  Airc rew or occupant incapacitation. 
+ 
+7.9.3.  The following events require declaring a Physiological Emergency, but do not require immediate medical attention:  
+7.9.3.1.  G- related incidents (e.g .  GLOC).  
+ 7.9.3.2.  Trapped gas physiological disorders (e.g .  ear, sinus, teeth, or abdominal).   
+ 7.9.3.3.  Any laser/lasing incident.  
+ 
+7.10.  Lost Communications /Radio Failure.  
+ 
+7.10.1.  Aircraft will squawk 7600 upon determining a loss of communication/radio failure .  
+With additional e mergencies, aircraft will squawk 7700.  
+ 
+7.10.2.  In VMC:  
+ 
+7.10.2.1.  Continue flight under VFR conditions at VFR altitudes, return to Shaw AFB via Stacks/Ponds, fly up initial and rock wings until reaching the end of runway.    7.10.2.2.  Look for appropriate light gun signals from Tower when established on final. 
+46  SHAWAFBI11 -250 
+ 
+ 
+ 
+7.10.3.  In IMC:  
+ 
+7.10.3.1.  Proceed via stereo route to the SSC TACAN at last approved altitude or 4,000 
+feet MSL (whichever is higher), then to the IAF for an instrument approach.    7.10.3.2.  Descend in holding to 4,000 feet MSL.    7.10.3.3.  Hold to reduce gross weight, if necessary .   
+ 7.10.3.4.  Ident when departing the IAF.  
+ 7.10.3.5.  Look for appropriate light gun signals from Tower when established on final. 
+ 
+7.11.  Cable engagements. 
+ 
+7.11.1.  Aircraft will notify ATC and SOF with the intention or possibility of taking the cable 
+as soon as practical.  
+ 7.11.2.  Normal Disengagement .  Tower will direct pilots to contact the Fire Chief on Local 
+Channel 19.  Pilots will follow all Fire C hief directions and expect to shut down and be towed 
+back to parking.   
+ 
+7.12.  Bra ke Malfunctions .  Aircraft landing with ANTI -SKID OFF and sufficient braking 
+observed may clear the runway to EOR prior to being shut down and towed to parking.  
+7.13.  Hot Brakes .   
+ 
+7.13.1.  If hot brakes are confirmed or suspected, the pilot will notify ground control and declare an emergency.  
+ 
+7.13.2.  Park into the wind in the Hot Brake Area, if able.  ( See Attachment 2
+) 
+ 
+7.13.2.1.  If found in EOR or chocks, remain in place and contact the SOF for guidance.  
+ 
+7.13.3.  Only Emergency Personnel are allowed within 300 feet of the aircraft.  If practical, 
+all other aircraft and personnel will remain clear .   
+ 7.13.4.  Do not shutdown until cleared by t he Fire Chief .  Hold brakes with minimum pressure 
+required until nose wheel is chocked .  After shutdown, turn the Main Power Switch to off and 
+exit toward the front of the aircraft .   
+ 7.14.  Taxi Restrictions.  
+ 
+7.14.1.  Locally assigned F -16 aircraft will not taxi clear of the runway for the following 
+emergencies (unless overriding circumstances exist):  
+SHAWAFBI11 -250   47 
+ 
+ 
+7.14.1.1.  B- system hydraulic failure.  
+ 
+7.14.1.2.  Landing gear indicated unsafe.  7.14.1.3.  Alternate gear extension performed.  
+ 7.14.1.4.  Brake malfun ction or degraded braking  (may taxi clear with anti- skid off and 
+sufficient braking observed).  7.14.1.5.  Nose wheel steering malfunction .   
+ 7.14.1.6.  Fuel leak.  
+ 7.14.1.7.  Abnormal engine response/vibration.  7.14.1.8.  Birdstrike.  
+ 7.14.1.9.  Unsecure live munition/stores ( EXCEPTION: Unsecure rockets and hung guns 
+will taxi to the HCP IAW paragraphs 7.4.  and 7.5.)  7.14.1.10.  Any fire indication.  
+ 7.14.1.11.  Any structural damage.  
+ 
+7.14.2.  Pilots may taxi to and shut down in the EOR or Hydrazine area for the following malfunctions: 
+ 7.14.2.1.  Battery failure.  
+ 7.14.2.2.  Dual generator failure.  
+ 7.14.2.3.  Engine operating in SEC.  7.14.2.4.  A- system hydraulic failure with good B -system.  
+ 7.14.2.5.  Fuel less than 600 pounds.    7.14.2.6.  Unsecure inert munitions/stores.   
+ 7.15.  Hydrazine Procedures .   
+ 
+7.15.1.  Take the following actions following an EPU activation or a suspected hydrazine leak:  
+ 
+7.14.1.1.  Tower will activate the PCAS and direct the aircraft to the Hydrazine A rea.  
+48  SHAWAFBI11 -250 
+ 
+ 
+(See Attachment 2 ) 
+  
+7.15.1.2.  MOC will notify the Hydrazine Response Team (HRT) .   
+ 7.15.1.3.  The HRT will go to the appropriate hydrazine area.  
+ 
+7.15.1.4.  The IC will determine the cordon. 
+ 
+7.15.2.  Pilots will taxi clear of runways using Twy C or F, if able, and park in the Hydrazine Area with the left wing pointed into the wind, if possible.  Once stopped, set the parking break and turn off the EPU.  If practical, have ground personnel pin the gear and EPU prior to shutdown. 
+ 
+7.16.  Weather Recall/Divert.  
+ 
+7.16.1.  Expect the SOF to pass recall instructions through ATC.  Pilots will contact the SOF 
+to acknowledge the recall and obtain further guidance.  7.16.2.  If possible, pilots will advise the SOF when approaching a divert decision, and notify ATC when nearing divert fuel.  If conditions do not permit timely communication, pilots will take all necessary actions to accomplish a safe recovery/divert.  
+ 7.16.3.  Available intermediate recovery bases should be considered in divert decisions when diverting below minimum/emergency fuel to a more distant location (i.e . consider landing at 
+McEntire if above weather minimums, despite not being the SOF- declared alternate).  
+ 7.16.4.  Once initiating a divert, pilots will not discontinu e divert procedures unless directed 
+by the 20 OG/CC, 20 OG  brick holder, or designated representative. 
+ 7.16.5.  As soon as possible after commencing a divert, pilots will advise the SOF of destination, ETA, and any requirements/complications (low fuel, armament, etc.) .  If unable 
+to contact the SOF, advise ATC.  7.16.6.  Contact the Shaw AFB Command Post as soon as practical after landing at a divert 
+location and relay aircraft status and contact/phone number information.  Coordinate further support requirements through squadron Operations Supervisor. 
+ 7.17.  Evacuation of Airfield Operations (OSA) Facilities .  Evacuation procedures of all OSA 
+facilities are outlined in the  facility OI.  
+ 
+7.18.  Alternate Facility Procedures.   There are no Alternate Facility procedures for Shaw AFB .   
+ 
+7.19.  Uncontrolled Field Procedures .   
+ 
+7.19.1.  Shaw AFB is an uncontrolled airfield any time the Tower is closed .   
+ 
+SHAWAFBI11 -250   49 
+ 
+7.19.2.  Aircraft will not plan to land at Shaw AFB while operating as an uncontrolled airfield .   
+ 
+7.20.  Wind Limitations .   
+ 
+7.20.1.  The Tower will evacuate the tower cab when winds are observed  as 50 knots sustained 
+or observed gusts to 60 knots.  7.20.2.  Digital Airport Surveillance Radar  (DASR) 20 OSS/OSAM will free wheel the DASR 
+if the winds are forecasted to exceed 85 knots.    
+ 7.21.  Fuel Dump  Area .  Fuel dump area is located 5 to 10 NM northwest of Shaw AFB at 5,000 
+feet AGL.  
+    
+  
+50  SHAWAFBI11 -250 
+ 
+ 
+Chapter 8  
+ 
+QUALITY CONTROL PROGRAMS  
+ 
+8.1.  Wing Airfield Operations Board (AOB). 
+ 
+8.1.1.  The AOB will be conducted IAW AFMAN 13 -204V3  and locally as stated below:  
+ 
+8.1.2.  Membership includes:    
+8.1.2.1.  20 OG/CC (Chairperson).    8.1.2.2.  20 MSG/CC.  8.1.2.3.  20 FW/SE/SEF/SEG.  
+ 8.1.2.4.  20 OG/OGV.  
+ 8.1.2.5.  20 CES/CC/CEP/CEPM/CEO/CEA/CEAO.  
+ 8.1.2.6.  20 CS/CC/SCO/SCX.  
+ 8.1.2.7.  55 FS/CC or designated representative.  8.1.2.8.  77 FS/CC or designated representative.  
+ 8.1.2.9.  79 FS/CC or designated representative.  8.1.2.10.  20 OSS/CC/OSA/OSAA/OSAR/OSAT/OSAM/OSW/OSOA.  
+ 8.1.2.11.  20 CP.  8.1.2.12.  20 MOS/MXOOM   
+ 8.1.3.  Annual Review Items include:  
+8.1.3.1.  Letter of Procedure (LOP) Rev iew—all applicable LOPs (to include airspace 
+LOAs with Shaw AFB ATC) are reviewed throughout the calendar year.  
+ 8.1.3.2.  Air Installation Compatible Use Zone (AICUZ) —reviewed annually in June. 
+ 8.1.3.3.  Results of Annual Airfield Certification/Safety In spection —results at first AOB 
+after inspection.  8.1.3.4.  Airfield Waiver Package— annually reviewed in June and/or within 90 days of 
+the OG/CC accepting command .   
+SHAWAFBI11 -250   51 
+ 
+ 
+8.1.3.5.  Terminal Instrument Procedures (TERPS) —annually reviewed in September.  
+ 8.1.3.6.  Aircraft Parking Plan —annually reviewed in June. 
+ 8.1.3.7.  SII —report results of new AF or MAJCOM SII checklist items, including SIIs 
+carried over from the previous year, at the first AOB following the official release of the SII checklist .   
+ 8.1.4.  The AOB Minutes are not required to be signed by the Chairperson and will be published on the 20 OSS/OSA SharePoint. 
+  
+52  SHAWAFBI11 -250 
+ 
+ 
+Chapter 9  
+ 
+MISCELLANEOUS  
+ 
+9.1.  Not Applicable . 
+ 
+9.1.1.  The following items are not applicable to operations at Shaw AFB: 
+ 
+9.1.1.1.  Helicopter Landing /Operating  Areas  
+ 9.1.1.2  Airfield Snow Removal Operations  9.1.1.3.  Drag Chute Drop Procedures  9.1.1.4.  UAS /Drone Operations Procedures 
+ 9.1.1.5.  Availability/Restrictions for Surveillance (ASR) Approaches and Precision Approach Radar (PAR) Approaches/Monitoring  9.1.1.6.  Noise Abatement Procedures  
+ 9.1.1.7.  Paradrop Operations  9.1.1.8.  Aero Club Operations.  9.1.1.9.  Civil Use of Military RAWS . 
+    
+LAWRENCE T . SULLIVAN, Colonel, USAF  
+Commander 
+ 
+  
+SHAWAFBI11 -250   53 
+ 
+Attachment 1  
+ 
+GLOSSARY OF REFERENCES AND SUPPORTING INFORMATION 
+ 
+References  
+ FAAO JO 7110.65, Air Traffic Control,  15 August 2019
+ 
+ FAAO JO 7400.11E, Airspace Designations and Reporting Points , 21 July 2020
+ 
+ 
+AFI 10 -1001, Civil Aircraft Landing Permits , 23 August 2018  
+ AFMAN 11 -2F-16V3, F-16—Operations Procedures, 4 February 2020
+  
+ 
+AFMAN 11 -202V3, Flight Operations , 10 June 2020 
+ AFI 11 -214, Air Operations Rules and Procedures, 8 July 2020
+  
+ 
+AFMAN 11 -301V2, Management and Configuration Requirements for Aircrew Flight Equipment  
+(AFE) , 13 February 2020  
+ AFI 11 -401_ACCSUP, Aviation Management , 25 March 2013
+ 
+ 
+AFMAN 13 -204V3, Air Traffic Control, 22 July 2020  
+ AFI 13 -213, Airfield Driving , 4 February 2020
+ 
+ 
+AFI 32 -1043_ACCSUP, Managing, Operating, and Maintaining Aircraft Arresting Systems , 4 
+March 2015  
+ AFMAN 33 -363, Management of Records, 1 March 2008
+ 
+ 
+AFI 90 -802_ACCSUP, Risk Management , 23 August 2019  
+ 
+AFMAN 91 -201_ACCSUP, Explosive Safety Standards , 11 March  2021  
+ AFI 91 -202, The US Air Force Mishap Prevention Program , 12 March 2020
+ 
+ 
+AFI 91 -212, Bird/Wildlife Aircraft Strike Hazard (BASH) Management Techniques , 31 May 
+2018  
+ UFC 03 -260-01, Airfield and Heliport Planning and Design, 4 February 2019
+ 
+ 
+SAFB PLAN 13 -207, Stop Alert, 1 April 2017  
+ 
+SHAWAFBI 13 -213, Airfield Driving , 9 May 2018  
+54  SHAWAFBI11 -250 
+ 
+ 
+SAFB PLAN 15 -101, Weather Support , 1 March 2020  
+ SAFB PLAN 31 -101, Integrated Defense Plan, 23 July 2020
+ 
+ SAFB  PLAN  91-204, Mishap Response Plan, 4 November 2020
+ 
+ SAFB PLAN 91 -212, Bird Aircraft Strike Hazard (BASH) , 1 July 2020
+ 
+ Shaw AFB Installation Emergency Management Plan (IEMP) 10-2, 4 November 2020.
+ 
+ 
+20 OG OI 14-1, Wing Scheduling Operations , 27 February 2015  
+ 
+169th FW Instruction 13-250, Airfield Operations and Base Flying Procedures, 6 September 2013  
+ 
+Prescribed Forms  
+ 
+No prescribed forms are implemented by this publication.  
+Adopted Forms 
+ 
+20 OG Risk Management (RM) Worksheet  ACC Form 50, Flight Order  AF Form 847, Recommend For Change of Publication  AF Form 3624, Equipment Outage Log  DD Form 175, Military Flight Plan  
+ DD Form 175-1, Flight Weather Briefing  
+ DD Form 1801, DOD International Flight Plan  
+ FAA Form 7460-1, Notice of Proposed Construction or Alteration  
+Acronyms and Abbreviations 
+ 
+AFB —Air Force Base  
+ 
+AFD—Airfield Facility Directory  
+ 
+AFE —Aircrew Flight Equipment 
+ AFI—Air Force Instruction 
+ 
+SHAWAFBI11 -250   55 
+ 
+AFMAN—Air Force Manual  
+ 
+AFPD —Air Force Policy Directive  
+ AFRIMS —Air Force Records Information Management System  
+ AGL —Above Ground Level  
+ AICUZ —Air Installation Compatible Use Zone  
+ ALTRV—Altitude Reservation  
+ AMOPs —Airfield Management Operations  
+ AOB —Airfield Operations Board 
+ AOF/CC— Airfield Operations Flight Commander  
+ 
+ARTCC—Air Route Traffic Control Center 
+ 
+ASR—Airport Surveillance Radar 
+ 
+ATC—Air Traffic Control  
+ ATIS —Automatic Terminal Information Service  
+ 
+AWG —Airfield Working Group  
+ 
+BASH —Bird/Wildlife Aircraft Strike Hazard  
+ 
+CAE —Columbia Metropolitan Airport 
+ CALP —Civilian Aircraft Landing Permits  
+ CHS —Charleston Air Force Base  
+ 
+CMA —Controlled Movement Area  
+ CPI—Crash Position Indicator 
+ DASR—Digital Airport Surveillance Radar  
+ 
+DME —Distance Measuring Equipment 
+ 
+DOD—Department of Defense  
+ 
+56  SHAWAFBI11 -250 
+ 
+ 
+DV—Distinguished Visitor  
+ ECC—Emergency Control Center  
+ 
+ELT—Emergency Locator Transmitter Signal  
+ EOR —End of Runway  
+ 
+EPU —Emergency Power Unit  
+ 
+EWAP —Electronic Warfare Assessment Program  
+ FAA —Federal Aviation Administration  
+ 
+FAAO —Federal Aviation Administration Order  
+ 
+FAF— Final Approach Fix 
+ FCF—Functional Check Flight  
+ FDS —Flight Data System 
+ FGS —Fighter Generation Squadron 
+ 
+FLIP—Flight Information Publication  
+ FLO —Florence Regional Airport  
+ 
+FOD —Foreign Object Debris  
+ FS—Fighter Squadron 
+ 
+FW—Fighter Wing 
+ 
+HCP —Hot Cargo Pad 
+ 
+HHQ—Higher Headquarters  
+ 
+HRT —Hydrazine Response Team  
+ IAF—Initial Approach Fix 
+ 
+IAW —In Accordance With  
+ 
+IC—Incident Commander 
+ 
+SHAWAFBI11 -250   57 
+ 
+IEMP —Installation Emergency Management Plan  
+ 
+IFE—In-Flight Emergency  
+ IFG—In-Flight Guide 
+ IFR—Instrument Flight Rules  
+ ILS—Instrument Landing System  
+ IMC —Instrument Meteorological Conditions 
+ IMDS —Integrated Maintenance Documentation System  
+ 
+JNGB —Joint National Guard Base  
+ JO—Joint Order  
+ 
+LLTR —Low Level Training Route 
+ 
+LOA —Letter of Agreement  
+ 
+LOP —Letter of Procedure  
+ MACA—Mid -Air Collision Avoidance 
+ 
+MARSA—Military Assumes Responsibility for Separation of Aircraft  
+ 
+MEDEVAC—Aeromedical Evacuation  
+ MOA —Military Operations Area  
+ MOC —Maintenance Operations Center  
+ 
+MRA —Minimum- Risk Arrival  
+ MRD —Minimum- Risk Departure  
+ 
+MSL —Mean Sea Level  
+ MTR —Military Training Route  
+ 
+MXG —Maintenance Group 
+ 
+NAS —National Airspace System  
+ 
+58  SHAWAFBI11 -250 
+ 
+ 
+NM—Nautical Mile  
+ NOTAM —Notice to Airmen  
+ 
+NVD—Night Vision Device  
+ OBO—Official Business Only  
+ OG—Operations Group 
+ OPLAN —Operational Plan  
+ 
+OPR —Office of Primary Responsibility  
+ OSS —Operations Support Squadron 
+ 
+PCAS —Primary Crash Alarm System  
+ 
+PM— Preventative Maintenance  
+ PMI —Preventative Maintenance Inspection  
+ POC —Point of Contact  
+ POFZ —Precision Obstacle Free Zone  
+ 
+PPR —Prior Permission Required 
+ 
+QRC—Quick  Reference Checklist  
+ RADAR—Radio Detection and Ranging 
+ 
+RAPCON—RADAR Approach Control  
+ RAWS —Radar, Airfield and Weather Systems  
+ RCO —Range Control Officer 
+ RCR—Runway Condition Reading 
+ 
+RDS —Records Disposition Schedule 
+ RM— Risk Management  
+ RSC—Runway Surface Condition  
+ 
+SHAWAFBI11 -250   59 
+ 
+RSRS —Reduced Same Runway Separation  
+ 
+RTR—Radar Trail Recovery  
+ RWR—Radar Warning Receiver  
+ 
+RWY—Runway 
+ 
+SCN—Secondary Crash Net  
+ 
+SELO —Stan/Eval Liaison Officer  
+ 
+SII—Special Interest Item 
+ SFO —Simulated Flameout 
+ 
+SFS—Security Forces  
+ SM—Statute Mile  
+ 
+SOF —Supervisor of Flying 
+ SSC—Shaw Air Force Base TACAN  
+ TA—Transient Alert  
+ TACAN—Tactical Air Navigational Aid  
+ TACW —Temporary Construction W aiver  
+ 
+TDY—Temporary Duty  
+ 
+TERPS —Terminal Instrument Procedures 
+ UFC—Unified Facilities Criteria  
+ 
+UHF —Ultra High Frequency  
+ 
+VFR—Visual Flight Rules  
+ VHF —Very High Frequency  
+ VMC —Visual Meteorological Conditions 
+ 
+WS—Watch Supervisor  
+60  SHAWAFBI11 -250 
+ 
+ 
+WX—Weather  
+ ZJX —Jacksonville Center  
+ 
+  
+SHAWAFBI11 -250   61 
+ 
+Attachment 2 
+ 
+AIRFIELD DIAGRAM /LIGHTING/MARKINGS/VISUAL AIDS  
+ 
+Figure A2.1.  Airfield Diagram /Master Parking Plan 
+ 
+Shaw AFB Airfield 
+Diagram 
+ 
+Figure A 2.2.  Visual Aids  
+ 
+ 
+ 
+ 
+  
+
+62  SHAWAFBI11 -250 
+ 
+ 
+Runway 04L. 
+ 
+ 
+Runway 04R. 
+ 
+ 
+
+SHAWAFBI11 -250   63 
+ 
+Runway 22L. 
+ 
+ 
+Runway 22R. 
+  
+
+64  SHAWAFBI11 -250 
+ 
+ 
+Attachment 3 
+ 
+VFR TRAFFIC PATTERN AND REPORTING POINTS  
+ 
+Figure A 3.1.  VFR Traffic Pattern /Reporting Points/SFO.
+ 
+ 
+NOT TO SCALE  
+From PONDS:  
+Initial—2500’ MSL  
+Descend at 4 DME  
+From STACKS :  
+Initial—2500’ MSL  
+Descend at 4 DME  
+ Initial —2000’ MSL  
+3-5 DME  
+ Initial —2000’ MSL  
+3-5 DME  
+ 
+SHAWAFBI11 -250   65 
+ 
+ 
+Attachment 4 
+ 
+VFR DEPARTURE PROCEDURES  
+ 
+Figure A 4.1.  VFR Dep arture Procedures . 
+ 
+Altitude in MSL  
+NOT TO SCALE  
+ 
+  
+
+66  SHAWAFBI11 -250 
+ 
+ 
+Attachment 5 
+ 
+POINSETT RANGE AND MOA  
+ 
+Figure A5.1.  Poinsett Range. 
+ 
+ 
+NOT TO SCALE   
+VFR Holding Point  
+SHAWAFBI11 -250   67 
+ 
+A5.1.  R- 6002 Procedures . 
+ 
+A5.1.1.  RCO shall request airspace necessary to conduct operations 15 minutes prior to 
+scheduled usage, when practical.  
+ 
+A5.1.2.  Poinsett R -6002 Holding Procedures. 
+ 
+A5.1.2.1.  Primary holding for Poinsett R-6002 is VFR, south of Rimini Bridge. 
+ A5.1.2.2.  When  requesting this procedure, IFR clearance is automatically canceled and 
+appropriate VFR ATC RADAR services will be provided until the pilot either receives range clearance or cancels the service.  
+ A5.1.3.  Poinsett R -6002 Entry Procedures. 
+ 
+A5.1.3.1.  Coordinate with RAPCON or the Range Control Officer (RCO) prior to 
+entering R -6002. 
+ A5.1.3.2.  Upon communications transfer to the RCO, the pilot’s IFR clearance is 
+canceled and RADAR services are terminated.  
+ A5.1.3.3.  The RCO provides clearance into R -6002 on frequency 264.7. 
+ A5.1.3.4.  Flight leads will retain the ATC assigned squawk code and wingmen will 
+squawk 400X in sequence. 
+ A5.1.4.  Poinsett R -6002 Exit Procedures.  
+ 
+A5.1.4.1.  Aircraft shall depart R -6002 as assigned by the RCO.  Expect to depart V FR 
+to the south towards Rimini or e ast and contact Shaw Approach, when directed . 
+ 
+A5.1.4.1.1.  Exiting to the w est and north can be coordinated with and approved 
+by Shaw Approach via the RCO.  A5.1.4.1.2.  If unable to proceed VFR or desiring an IFR pickup, contact Shaw Approach (local Channel 4) to coordinate 5 minutes prior to exiting. 
+ A5.1.4.2.  Aircraft not covered by the participating LOA will not be allowed practice 
+approaches to Shaw AFB  and will be required to full stop.  
+ 
+A5.2.  Temporary  Suspension of R -6002 Activities.  ( See 
+Participating Aircraf t within R-6002 
+Operations LOA  for suspension guidance)  
+ 
+A5.2.1.  R-6002 RCO shall: 
+ 
+A5.2.1.1.  Notify RAPCON when range operations are suspended for 30 minutes or 
+68  SHAWAFBI11 -250 
+ 
+ 
+longer. 
+ 
+A5.2.2.  RAPCON shal l: 
+ 
+A5.2.2.1.  Notify the RCO immediately when suspended range operations may resume. 
+ 
+A5.3.  Poinsett MOA Procedures.  
+A5.3.1.  The MOA is activated when RAPCON clears an aircraft into the MOA  or airspace 
+is released to the RCO .   
+  
+A5.3.2.  The MOA is deactivated when the pilot notifies RAPCON or the RCO of termination .  RAPCON may deny or terminate MOA use as  conditions warrant.   
+ A5.3.3.  Due to radar limitations, RAPCON may not be able to provide continuous radar monitoring of MOA operations.  A5.3.4.  The MOA is not available when the Shaw AFB and Columbia RADAR sensors are out of service.  A5.3.5.  20 OSS/OSOS, or Command Post during non-duty hours, is the designated scheduling agency and liaison for Poinsett MOA operations and shall: 
+A5.3.5.1.  Forward amendments, including cancellations to RA PCON as they occur.  
+ A5.3.5.2.  If activities are to be scheduled on weekends/holidays, the schedule shall be forwarded no later than 1600L the Thursday prior to scheduled activities.    A5.3.5.3.  Deconflict Poinsett MOA with IR-035/036 and SR-166. 
+ 
+A5.3.6.  Pilots shall:  
+A5.3.6.1.  Schedule Poinsett MOA in conjunction with the appropriate MTR and R -6002. 
+ A5.3.6.2.  Call RAPCON at least 3 minutes prior to estimate d entry time into the MOA 
+and include an estimate of duration of operations within the MOA.  A5.3.6.3.  Obtain approval from RAPCON or RCO prior to entering Poinsett MOA.  
+ A5.3.6.4.  Monitor RCO and/or RAPCON-assigned frequencies while operating within the MOA.  
+ A5.3.6.5.  Remain within the confines of the MOA while transiting into R -6002. 
+ A5.3.6.6.  Contact  RCO after RAPCON approves a frequency change and prior to 
+entering R -6002. 
+SHAWAFBI11 -250   69 
+ 
+ 
+A5.3.6.7.  Advise RAPCON or RCO  when the MOA is inactive.  
+ A5.3.6.8.  Coordinate with RAPCON for real time scheduling of Poinsett MOA while airborne or RCO if already working R -6002. 
+ 
+A5.3.7.  RCO shall: 
+ 
+A5.3.7.1.  Clear participating aircraft to enter R -6002 on published range frequency. 
+ A5.3.7.2.  Relay traffic and other information provided by RAPCON.  A5.3.7.3.  Relay status of the MOA from pilo ts to RAPCON.  
+  
+70  SHAWAFBI11 -250 
+ 
+ 
+Attachment 6 
+ 
+SPECIAL USE AIRSPACE  
+ 
+Figure A6.1.  W-177/161 Sectorization.  
+ 
+ 
+   
+N33° 50.5’  
+W78° 23.7’  
+N33° 50.5’  
+W78° 09’ 
+N33°  17’ 
+W79° 04.2’ 
+N33°  11’ 
+W79° 05.5’ 
+N33°  00’ 
+W79° 17’ 
+N32° 46.1’  
+W79° 27’ 
+N32° 37.5’ 
+W79° 33.5’ 
+N32° 20’ 
+W78° 36’ 
+N32° 12.5’ 
+W78° 13’ 
+N32° 21.4’ 
+W78° 11.1’ 
+N32° 42’ 
+W78° 07’ 
+N32° 55’ 
+W78° 04’ 
+SHAWAFBI11 -250   71 
+ 
+Figure A6.2.  BULIT ATCAA.  
+ 
+ 
+  
+
+72  SHAWAFBI11 -250 
+ 
+ 
+Figure A6. 3.  TAILHOOK A  ATCAA.  
+ 
+ 
+   
+
+SHAWAFBI11 -250   73 
+ 
+Attachment 7 
+ 
+RADAR TRAFFIC PATTERNS  
+ 
+Figure A8 .1.  Shaw AFB  Radar Traffic Pattern.  
+ 
+ 
+NOT TO SCALE  
+ Figure A8.2.  MMT Radar Traffic Pattern.  
+ 
+NOT TO SCALE   
+
+74  SHAWAFBI11 -250 
+ 
+ 
+Attachment 8 
+ 
+MINIMUM RISK DEPARTURE AND ARRIVAL  (MRD/MRA)  
+ 
+MIN RISK DEPARTURE (MRD)  
+(VFR Procedure Only)  
+ 
+ 
+          
+  
+                  
+ 
+       
+  
+9,000 ’ 
+5,000’ 
+9,000 ’ 
+5,000’ 
+SHAWAFBI11 -250   75 
+ 
+ 
+MIN RISK ARRIVAL (MRA)  
+(VFR Procedure Only)  
+ 
+
